@@ -1,6 +1,6 @@
 {
     "$schema": "https://json.schemastore.org/hugo.json",
-    "baseURL": "http://localhost:1313/",
+    "baseURL": "https://acppt.netlify.app/",
     "languageCode": "fr-fr",
     "title": "ACPPT - Blog",
     "theme": "acppt"
