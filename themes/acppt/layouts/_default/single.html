@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div id="container01" class="style1 container columns full screen"
+    style="--element-top: 0; --onvisible-speed: 1s; --onvisible-background-color: rgba(0,0,0,0.001);">
+    <div class="wrapper">
+        <div class="inner">
+            <div>
+                <div id="heroImage" class="styleHero image" style="opacity: 1; transform: none;">
+                    <span class="frame">
+                        {{ range .Resources.ByType "image" | first 1 }}
+                        <img src="{{ .RelPermalink }}" alt="Image de couverture de l'article" />
+                        {{ else }}
+                        {{ if .Params.Cover }}
+                        <img src="{{ .Params.Cover }}" alt="Image de couverture de l'article" />
+                        {{ end }}
+                        {{ end }}
+                    </span>
+                </div>
+            </div>
+            <div>
+                <h2 class="style2" style="opacity: 1; transform: none;">
+                    {{ .Title }}
+                </h2>
+            </div>
+        </div>
+    </div>
+</div>
+<article class="">
+    {{ .Content }}
+</article>
+<div id="gallery" class="gallery">
+    {{ range .Resources.ByType "image" }}
+    <div class="gallery-item">
+        <a href="{{ .RelPermalink }}" target="_blank">
+            <img src="{{ .RelPermalink }}" alt="Gallery image" />
+        </a>
+    </div>
+    {{ end }}
+</div>
+{{ end }}

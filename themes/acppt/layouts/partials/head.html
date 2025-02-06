@@ -1,0 +1,56 @@
+<head>
+    {{ template "_internal/opengraph.html" . }}
+    
+    <link rel="stylesheet" href="/css/carrd.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://associationcppt.fr/carrd/menu.css">
+    <script src="https://associationcppt.fr/carrd/menu.js"></script>
+    <script>
+        const NAVBAR = {
+            logo: {
+                src: "https://associationcppt.fr/carrd/logo.png",
+                alt: "Logo de l'association ACPP",
+                href: "#home"
+            },
+            elements: [
+                {
+                    label: "Accueil",
+                    href: "#home"
+                },
+                {
+                    label: "L'association",
+                    href: "#association"
+                },
+                {
+                    label: "Nos actions",
+                    href: "#actions"
+                },
+                {
+                    label: "Nos antennes",
+                    subElements: [
+                        {
+                            label: "France",
+                            href: "#antenne-france"
+                        },
+                        {
+                            label: "Guinée",
+                            href: "#antenne-guinee"
+                        },
+                    ]
+                },
+                {
+                    label: "Nous aider",
+                    href: "#contribuer"
+                },
+                {
+                    label: "S'informer",
+                    href: "#ressources"
+                },
+                {
+                    label: "Contact",
+                    href: "#contact"
+                }
+            ]
+        };
+    </script>
+</head>
