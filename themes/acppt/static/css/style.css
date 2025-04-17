@@ -3,18 +3,6 @@
   margin-bottom: 5rem !important;
 }
 
-/* Override Carrd h1.style5, h2.style5, h3.style5, p.style5 */
-article {
-  font-family: 'Inter', sans-serif;
-  text-align: left;
-  color: #525252;
-  letter-spacing: -0.05rem;
-  width: 100%;
-  font-size: 1.5rem;
-  line-height: 1.625;
-  font-weight: 400;
-}
-
 /* Hero Image - inspired by Carrd .image.style3 */
 
 .image.styleHero:not(:first-child) {
@@ -59,12 +47,60 @@ article {
 
 /* Style Markdown Content */
 
-h2 {
-    font-weight: bold;
-    font-size: 1.5em;
-    margin: 2rem 0 1rem 0;
+
+/* Text styles
+ * - Base :
+        - text: .style5
+ * - Hero :
+ *      - H1 (over-title in the hero): .style14
+ *      - H2 (hero big title): .style15
+ *      - H3 (catchline - subheros): .style16
+ *      - text: .style6
+ * - Content :
+ *      - H3 (content titles): .style3
+ *      - H3 over-title: .style17
+ * - Highlights :
+ *      - H4 (highlights): .style4
+ *      - text: .style1
+**/
+
+/* Base */
+article {
+    font-family: 'Inter', sans-serif;
+    text-align: left;
+    color: #525252;
+    letter-spacing: -0.05rem;
+    width: 100%;
+    font-size: 1.25em;
+    line-height: 1.5;
+    font-weight: 400;
 }
 
-p {
-    margin: 0 0 1rem 0;
+article h3 {
+    letter-spacing: -0.15rem;
+    font-size: 2.5rem;
+    line-height: 1.25;
+    font-weight: 600;
+
+    margin-top: 4rem;
+}
+
+article h4 {
+    letter-spacing: -0.05rem;
+	font-size: 1.5em;
+	line-height: 1.25;
+	font-weight: 600;
+
+    margin-top: 2.5rem;
+}
+
+article p {
+    margin: 2rem 0 2rem 0;
+}
+
+article blockquote {
+    border-left: 0.2rem solid #52525281;
+    border-radius: 0.2rem;
+    margin-left: 0.5rem;
+    padding-left: 1rem;
 }

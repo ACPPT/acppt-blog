@@ -1,0 +1,8 @@
+<!--
+    This is a workaround to shift the level of headings in Hugo (+1)
+    https://discourse.gohugo.io/t/can-i-shift-second-level-headings-up-one-level-to-display-as-third-level-ones-in-the-html-output/52118/2
+-->
+{{- $level := math.Min (add .Level 1) 6 -}}
+<h{{ $level }} id="{{ .Anchor }}" href="#{{ .Anchor }}" {{- with .Attributes.class }} class="{{ . }}" {{- end }}>
+    {{- .Text -}}
+</h{{ $level }}>
