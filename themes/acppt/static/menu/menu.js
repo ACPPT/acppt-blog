@@ -65,10 +65,26 @@ function createNavbar() {
     navbar.appendChild(elements);
     return navbarWrapper;
 }
-/* Close menu when width is lower than 736px */
+/* Close details when clicking outside of it */
+function closeDetailsOnClick() {
+    const navbarWrapper = document.getElementById("navbar-wrapper");
+    // Subelements
+    const subelementsDetails = navbarWrapper.querySelectorAll("details");
+    subelementsDetails.forEach(detail => {
+        if (detail.hasAttribute("open")) {
+            detail.removeAttribute("open");
+        }
+    });
+    // Hamburger menu when width is lower than 1200px
+    if (window.innerWidth <= 1200 && navbarWrapper.hasAttribute("open")) {
+        navbarWrapper.removeAttribute("open");
+    }
+}
+document.addEventListener("click", closeDetailsOnClick);
+/* Close menu when width is lower than 1200px */
 function toggleMenuResponsively() {
     const navbarWrapper = document.getElementById("navbar-wrapper");
-    if (window.innerWidth <= 736) {
+    if (window.innerWidth <= 1200) {
         navbarWrapper.removeAttribute("open");
     } else {
         navbarWrapper.setAttribute("open", "true");
