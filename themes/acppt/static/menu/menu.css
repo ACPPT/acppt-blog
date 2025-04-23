@@ -1,0 +1,206 @@
+@keyframes details-show {
+    from {
+        opacity:0;
+        transform: var(--details-translate, translateY(-0.5em));
+    }
+}
+#navbar-wrapper {
+    z-index: 20;
+    position: fixed;
+    padding: .3rem;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    border-radius: 1000px;
+    background-color: #583385b0;
+    backdrop-filter: blur(.4rem);
+
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 600;
+    
+    font-family: 'Inter', sans-serif;
+}
+#navbar-wrapper[open] > #navbar {
+    animation: details-show .3s ease-in-out;
+}
+#hamburger {
+    display: none;
+}
+#hamburger::marker {
+    content: none;
+}
+#hambuger-icon {
+    position: absolute;
+    top: 0;
+    right: 1rem;
+    left: 1rem;
+    width: auto;
+    height: 100%;
+}
+#hamburger-icon-lines,
+#hamburger-icon-lines:before,
+#hamburger-icon-lines:after {
+    position: absolute;
+    display: block;
+    width: 100%;
+    left: 0;
+    background: #FFFFFF;
+    transition: 0.3s;
+}
+  
+#hamburger-icon-lines {
+    height: 4px;
+    margin-top: -2px;
+    top: 50%;
+}
+  
+#hamburger-icon-lines:before,
+#hamburger-icon-lines:after {
+    content: '';
+    height: 100%;
+    transform-origin: 2.5rem center;
+}
+  
+#hamburger-icon-lines:before {
+    top: 11px;
+}
+  
+#hamburger-icon-lines:after {
+    top: -11px;
+}
+
+#navbar-wrapper[open] #hamburger-icon {
+    transform: scale3d(0.8, 0.8, 0.8);
+}
+  
+#navbar-wrapper[open] #hamburger-icon-lines {
+    background: transparent;
+}
+  
+#navbar-wrapper[open] #hamburger-icon-lines:before,
+#navbar-wrapper[open] #hamburger-icon-lines:after {
+    top: 0;
+    transform-origin: 50% 50%;
+}
+  
+#navbar-wrapper[open] #hamburger-icon-lines:before {
+    transform: rotate3d(0, 0, 1, 45deg);
+}
+  
+#navbar-wrapper[open] #hamburger-icon-lines:after {
+    transform: rotate3d(0, 0, 1, -45deg);
+}
+#navbar {
+    display: flex;
+    align-items: center;
+    min-width: max-content;
+}
+#navbar :any-link {
+    color: white;
+    text-decoration: none;
+}
+#logo-wrapper {
+    flex: 1 1 0%;
+}
+#logo-link {
+    display: inline-flex;
+    padding: 0 .10rem;
+}
+#logo-img {
+    width: 2.4rem;
+    height: auto;
+}
+#menu-wrapper {
+}
+#menu-list {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0 .2rem;
+    margin: 0;
+}
+#menu-list > li {
+}
+#menu-list > li::marker {
+    content: none;
+}
+#menu-list > li > a {
+    padding: .5rem .8rem;
+    display: inline-block;
+}
+#menu-list > li > a:hover,
+#menu-list > li > details > summary:hover,
+#menu-list > li > details > ul > li > a:hover {
+    background-color: #583385;
+    border-radius: .5rem;
+}
+#menu-list > li > details {
+    display: block;
+}
+#menu-list > li > details > summary {
+    padding: .5rem 1rem;
+    cursor: pointer;
+}
+#menu-list > li > details > summary::marker {
+    content: none;
+}
+#menu-list > li > details > summary::after {
+    content: "▸";
+    margin-left: .5rem;
+}
+#menu-list > li > details[open] > summary::after {
+    content: "▾";
+}
+#menu-list > li > details > ul {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 3.5rem;
+    margin-left: .5rem;
+    padding: 1rem 1rem;
+    gap: 1.2rem;
+    
+    border-radius: 1rem;
+    background-color: #583385b0;
+    backdrop-filter: blur(.4rem);
+
+    list-style-type: none;
+}
+#menu-list > li > details[open] > ul {
+    animation: details-show 150ms ease-in-out;
+}
+#menu-list > li > details > ul > li {
+}
+#menu-list > li > details > ul > li > a {
+    padding: .5rem .8rem;
+}
+
+@media (max-width: 736px) {
+    #navbar-wrapper {
+        border-radius: 1rem;
+        padding: .8rem;
+    }
+    #hamburger {
+        display: inline-block;
+        cursor: pointer;
+    }
+    #hamburger-icon {
+        width: 1.8rem;
+        height: 1.8rem;
+        filter: invert(0);
+    }
+    #navbar {
+        flex-direction: column;
+        margin-top: 1rem;
+    }
+    #menu-list {
+        flex-direction: column;
+    }
+    #menu-list > li > details > ul {
+        position: initial;
+        margin-left: initial;
+    }
+}
