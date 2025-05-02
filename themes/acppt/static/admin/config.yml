@@ -31,7 +31,7 @@ collections:
     media_folder: "images"
     public_folder: "images"
     filter: { field: "editable", value: true }
-    summary: "{{date}} | {{title}}"
+    summary: "{{year}}-{{month}}--{{day}} 🏷️ {{title}}"
     view_groups: # Group by year
       - label: "Année"
         field: "date"
