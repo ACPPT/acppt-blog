@@ -31,6 +31,7 @@ collections:
     media_folder: "images"
     public_folder: "images"
     filter: { field: "editable", value: true }
+    summary: "{{date}} | {{title}}"
     fields:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY"}
@@ -63,6 +64,7 @@ collections:
     media_folder: "images"
     public_folder: "images"
     filter: { field: "editable", value: true }
+    summary: "{{date}} | {{title}}"
     fields:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY"}
@@ -87,6 +89,7 @@ collections:
     media_folder: "images"
     public_folder: "images"
     filter: { field: "editable", value: true }
+    summary: "{{date}} | {{source.name}} | {{title}}"
     fields:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY"}
