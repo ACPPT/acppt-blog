@@ -65,6 +65,7 @@ function createNavbar() {
     navbar.appendChild(elements);
     return navbarWrapper;
 }
+
 /* Close details when clicking outside of it */
 function closeDetailsOnClick() {
     const navbarWrapper = document.getElementById("navbar-wrapper");
@@ -75,22 +76,25 @@ function closeDetailsOnClick() {
             detail.removeAttribute("open");
         }
     });
-    // Hamburger menu when width is lower than 1200px
-    if (window.innerWidth <= 1200 && navbarWrapper.hasAttribute("open")) {
+    // Hamburger menu when width is lower than 950px
+    if (window.innerWidth <= 950 && navbarWrapper.hasAttribute("open")) {
         navbarWrapper.removeAttribute("open");
     }
 }
 document.addEventListener("click", closeDetailsOnClick);
-/* Close menu when width is lower than 1200px */
+
+/* Close menu when width is lower than 950px */
 function toggleMenuResponsively() {
+    console.log("Window width: " + window.innerWidth);
     const navbarWrapper = document.getElementById("navbar-wrapper");
-    if (window.innerWidth <= 1200) {
+    if (window.innerWidth <= 950) {
         navbarWrapper.removeAttribute("open");
     } else {
         navbarWrapper.setAttribute("open", "true");
     }
 }
 window.addEventListener("resize", toggleMenuResponsively);
+
 /* Append the navbar to the body when the page is loaded */
 document.addEventListener("DOMContentLoaded", () => {
     if (!NAVBAR) {

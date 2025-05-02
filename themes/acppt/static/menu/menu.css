@@ -178,10 +178,14 @@
     padding: .5rem .8rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 950px) {
     #navbar-wrapper {
         border-radius: 1rem;
         padding: .8rem;
+        left: 0;
+        top: 0;
+        transform: none;
+        margin: 10px;
     }
     #hamburger {
         display: inline-block;
@@ -195,6 +199,7 @@
     #navbar {
         flex-direction: column;
         margin-top: 1rem;
+        width: calc(100vw - 55px);
     }
     #menu-list {
         flex-direction: column;
