@@ -101,7 +101,7 @@ collections:
     view_groups: # Group by year
       - label: "Année"
         field: "date"
-        pattern: "\d{4}"
+        pattern: \d{4}
     fields:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY"}
