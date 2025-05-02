@@ -5,12 +5,12 @@ extra:
     - https://associationcppt.fr/les-mutilations-genitales-feminines/
     - https://associationcppt.fr/2019-participation-de-notre-association-a-la-campagne-de-prevention-alerte-excision-de-lassociation-excision-parlons-en/
   old_title:
-    - 2019 - Participation de notre association à la campagne de prévention Alerte Excision de l'association Excision Parlons-En
+    - "2019 - Participation de notre association à la campagne de prévention Alerte Excision de l'association Excision Parlons-En"
     - Excisions, Mutilations Sexuelles Féminines (MSF) ou Mutilations Génitales Féminines (MGF)
 featured_image:
-  alt: Affiche de sensibilisation sur les MSF : Le saviez-vous ? En Europe, 180 000 femmes et filles risquent de subir une Mutilation Sexuelle chaque année
+  alt: "Affiche de sensibilisation sur les MSF : Le saviez-vous ? En Europe, 180 000 femmes et filles risquent de subir une Mutilation Sexuelle chaque année"
   src: images/62528293_2272460279670668_3032806953236561920_n.jpg
-gallery: 
+gallery:
   - src: images/1024px-FGC_Types.svg_.png
     alt: Schémas comparatifs des types de mutilations génitales féminines
 title: Excisions, Mutilations Sexuelles Féminines (MSF) ou Mutilations Génitales Féminines (MGF)
