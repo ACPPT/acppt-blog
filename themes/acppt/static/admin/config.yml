@@ -22,8 +22,8 @@ locale: "fr" # Set the locale for the admin interface
 
 collections:
   - name: "actions"
+    label: "Actions"
     label_singular: "Action"
-    label_plural: "Actions"
     folder: "content/actions"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -51,8 +51,8 @@ collections:
       - {label: "Contenu", name: "body", widget: "markdown"}
 
   - name: "news"
+    label: "Actualités"
     label_singular: "Actualité"
-    label_plural: "Actualités"
     folder: "content/news"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -73,8 +73,8 @@ collections:
       - {label: "Contenu", name: "body", widget: "markdown"}
 
   - name: "press"
+    label: "Articles de presse"
     label_singular: "Article de presse"
-    label_plural: "Articles de presse"
     folder: "content/press"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
