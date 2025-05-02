@@ -27,26 +27,27 @@ collections:
     folder: "content/actions"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    path: "{{slug}}/index.md"
+    path: "{{slug}}/index"
     media_folder: "images"
     public_folder: "images"
     fields:
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY"}
       - {label: "Résumé", name: "excerpt", widget: "text", required: false}
       - label: "Image principale"
         name: "featured_image"
         widget: "object"
         required: false
         fields:
-          - {label: "Image", name: "src", widget: "image"}
+          - {label: "Image", name: "src", widget: "image", required: false}
           - {label: "Description / Alt", name: "alt", widget: "string", required: false}
       - label: "Galerie d'images"
+        label_singular: "Image"
         name: "gallery"
         widget: "list"
         required: false
         fields:
-          - {label: "Image", name: "src", widget: "image"}
+          - {label: "Image", name: "src", widget: "image", required: false}
           - {label: "Description / Alt", name: "alt", widget: "string", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
 
@@ -61,14 +62,14 @@ collections:
     public_folder: "images"
     fields:
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY"}
       - {label: "Résumé", name: "excerpt", widget: "text", required: false}
       - label: "Image principale"
         name: "featured_image"
         widget: "object"
         required: false
         fields:
-          - {label: "Image", name: "src", widget: "image"}
+          - {label: "Image", name: "src", widget: "image", required: false}
           - {label: "Description / Alt", name: "alt", widget: "string", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
 
@@ -83,7 +84,7 @@ collections:
     public_folder: "images"
     fields:
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY"}
       - {label: "Résumé", name: "excerpt", widget: "text", required: false}
       - label: "Source"
         name: "source"
