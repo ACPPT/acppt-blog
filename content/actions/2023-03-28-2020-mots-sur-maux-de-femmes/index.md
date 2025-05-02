@@ -11,6 +11,7 @@ featured_image:
   src: images/89351582_585072978748047_2097185706903339008_n.jpg
 gallery: []
 title: 2020 - Mots sur maux de femmes
+editable: true
 ---
 En collaboration avec l’association des jeunes guinéens de France (AJGF), la Coordination des associations guinéennes de France (CAGF) et le FORIM, nous avons organisé le 7 mars 2020 l’événement MOTS SUR MAUX DES FEMMES, afin de sensibiliser et d’informer à travers des tables rondes sur plusieurs thématiques liées à la condition de vie des femmes, un poignant défilé contre les violences conjugales et une pièce de théâtre relatant l’histoire de tant de familles au sein desquelles des filles subissent les pires atrocités, parfois de leur propre géniteur.
 

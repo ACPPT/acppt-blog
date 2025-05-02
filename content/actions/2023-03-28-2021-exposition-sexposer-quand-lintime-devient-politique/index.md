@@ -12,6 +12,7 @@ gallery:
 - alt: ''
   src: images/Expo-2_Page_3.jpg
 title: 2021 - Exposition  “SEXposer” quand l’intime devient politique
+editable: true
 ---
 Anita TRAORÉ, Présidente fondatrice d’ACPPT, a conduit notre participation au projet "SEXposer", une exposition photos résultant d'un projet PhotoVoice dirigé en France par l’association Femmes Entraide et Autonomie (FEA), en partenariat avec Por Ti Mujer (Espagne), CACIS (France) et Arab Women Solidarity Association (Belgique).
 

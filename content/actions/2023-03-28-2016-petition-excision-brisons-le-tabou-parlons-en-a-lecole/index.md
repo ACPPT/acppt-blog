@@ -7,6 +7,7 @@ featured_image:
   src: images/12998217_1689815397935162_6574947483441641241_o.jpg
 gallery: []
 title: '2016 - Pétition : "Excision : brisons le tabou, parlons-en à l’école !"'
+editable: true
 ---
 En collaboration avec Binta Diallo, Miss Guinée France 2011, nous avons lancée la pétition "Excision : brisons le tabou, parlons-en à l'école !" alors adressée à Madame Najat Vallaud-Belkacem (ancienne Ministre de l'Éducation nationale, de l'Enseignement Supérieur et de la recherche). Nous demandions au Ministère de l’Education nationale de prendre des mesures pour sensibiliser à la thématique des mutilations sexuelles féminines dans les établissements scolaires. Plusieurs semaines ont été nécessaires pour collecter plus de 105000 signatures, ainsi que des soutiens à travers le monde qui ont ensuite favorisé une rencontre au Ministère de l'Éducation.
 

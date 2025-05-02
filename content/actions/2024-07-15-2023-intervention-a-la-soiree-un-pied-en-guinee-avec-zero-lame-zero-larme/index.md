@@ -9,6 +9,7 @@ gallery:
 - alt: Programme de la soirée
   src: images/387723798_643635714541534_3520116578430396662_n-2.jpg
 title: 2023 - Intervention à la soirée "Un pied en Guinée" avec Zéro Lame Zéro Larme
+editable: true
 ---
 Le 14 Octobre 2023, sur invitation de l'association Zéro Lame Zéro Larme, Anita TRAORÉ, Présidente fondatrice de notre association est intervenue lors de la soirée "Un pied en Guinée", pour témoigner de sa propre expérience de l’excision.
 

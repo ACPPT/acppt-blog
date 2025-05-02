@@ -8,6 +8,7 @@ gallery:
 - src: images/Untitledzaza.png
 - src: images/334955609_2174607639413792_7476006757620218536_n-1024x537.jpg
 title: 2023 - Distribution de protections menstruelles au collège Bonfi à Conakry
+editable: true
 ---
 08/2023/2023 - Dans la continuité de notre lutte contre la précarité menstruelle, nous avons collaboré avec la société SUNU ASSURANCES dans le cadre de la journée internationale de lutte pour les droits des femmes, le 8 mars.
 

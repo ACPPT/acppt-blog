@@ -7,6 +7,7 @@ featured_image:
   src: affiche_fleur_du_desert-980x551.jpg
 gallery: []
 title: 2019 - Intervention lors d’un ciné-débat en prélude du 25 novembre (Journée internationale de lutte pour l’élimination des violences à l’égard des femmes)
+editable: true
 ---
 Sur invitation du Centre d’Information sur les Droits des Femmes et des Familles de Nîmes (CIDFF), Anita TRAORÉ, Présidente fondatrice de notre association est intervenue après le visionnage du film "Fleur du désert", pour parler de sa propre expérience de l’excision. Elle a ainsi témoigné face à une centaine de personnes (membres d’associations, avocat-e-s, travailleur-euse-s sociaux-les, gendarmes), toutes travaillant auprès de personnes victimes ou à risque des mutilations sexuelles féminines.
 

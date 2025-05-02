@@ -7,6 +7,7 @@ featured_image:
   src: images/AFFICHE-ACPPT_Plan-de-travail-1-842x675.png
 gallery: []
 title: Campagne de communication et de sensibilisation à l'excision
+editable: true
 ---
 Les vacances scolaires d'été approchent et, si elles sont synonymes pour beaucoup d'élèves de détente et de bons moments en famille, elles peuvent également pour certaines fillettes et adolescentes prendre une tournure dramatique.
 

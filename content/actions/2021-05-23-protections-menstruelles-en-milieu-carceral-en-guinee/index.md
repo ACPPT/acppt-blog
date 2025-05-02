@@ -7,6 +7,7 @@ featured_image:
   src: images/kit-hygienique-1024x1024.jpg
 gallery: []
 title: Protections menstruelles en milieu carcéral en Guinée
+editable: true
 ---
 Nous entamons le projet de dons de kit de produits aux femmes incarcérées en Guinée. Ce kit sera composé de 3 protections menstruelles réutilisables durant une année, de savon et d’un bidon de sur’eau. Le kit coûte 90.000 GNF, environ 9 euros.
 

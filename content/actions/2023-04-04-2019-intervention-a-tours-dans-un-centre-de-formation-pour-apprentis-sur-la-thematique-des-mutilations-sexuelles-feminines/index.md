@@ -8,6 +8,7 @@ featured_image:
 gallery: []
 title: 2019 - Intervention à Tours dans un centre de formation pour apprentis sur
   la thématique des mutilations sexuelles féminines 
+editable: true
 ---
 En collaboration avec le planning familial 37, nous sommes intervenus au CFA DES DOUETS auprès de deux classes pour un échange sur la thématique des mutilations sexuelles féminines. Un sujet tabou, méconnu du grand public et encore très peu abordé en milieu scolaire.
 

@@ -9,6 +9,7 @@ gallery:
     alt: Test alt 2
   - src: images/20231124_175048-min-1280x2397.jpg
     alt: Test alt 3
+editable: true
 ---
 C’est avec beaucoup d’engagement que nous avons présenté, à l’espace Jacques Villeret dans le quartier des Fontaines à Tours, l’exposition « SEXposer : quand l’intime devient politique ». Cela s’est déroulé lors de notre vernissage le vendredi 24 novembre, à l’occasion de la journée internationale pour l’élimination des violences à l’égard des femmes. La cérémonie s’est tenue en présence de Madame Pereira-Nunes, Adjointe au maire de Tours, déléguée à l’égalité des genres et aux relations internationales, de Madame Rachel Moussini, adjointe au maire de Tours, déléguée à l’action sociale, à la santé, à l’autonomie et aux solidarités intergénérationnelles, de Monsieur Gervasio Semedo, Président de la Ligue internationale contre le racisme et l’antisémitisme (Licra), et de Sokhna Fall, coordinatrice de l’association Femmes Entraide & Autonomie – FEA.
 

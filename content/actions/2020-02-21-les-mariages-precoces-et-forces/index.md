@@ -11,6 +11,7 @@ featured_image:
   src: images/cellule-guinee.png
 gallery: []
 title: Les mariages précoces et forcés
+editable: true
 ---
 **Chaque année, 12 millions de mineures sont mariées de force dans le monde.**
 

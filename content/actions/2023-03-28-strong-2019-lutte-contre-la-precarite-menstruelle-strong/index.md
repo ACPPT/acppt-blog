@@ -10,6 +10,7 @@ gallery:
 - src: images/Untitled-768x1024.png
 - src: images/Untitledt.png
 title: 2019 - Lutte contre la précarité menstruelle
+editable: true
 ---
 La précarité menstruelle étant un sujet essentiel dans notre lutte en faveur des droits des femmes et des filles, nous avons initié le projet protections menstruelles pour toutes fin 2019. En collaboration avec des magasins à Tours et à Paris, nous avons organisé et tenu durant plusieurs semaines des stands d'emballages cadeaux pour collecter des fonds. Pour ce faire, nous avons mobilisé nos familles, ami.es, collègues, membres d'associations étudiantes, et formé des équipes.
 

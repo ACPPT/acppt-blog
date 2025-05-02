@@ -9,6 +9,7 @@ gallery:
 - src: images/Untitledfrt-768x1024.png
 - src: images/Untitledaaa-768x1024.png
 title: 2021 - Dons d'habillements à la cité de la solidarité à Taouyah (Conakry)
+editable: true
 ---
 Après plusieurs semaines de collecte de fonds, de vêtements et de chaussures, nous avons fait du porte à porte dans la grande cour de la cité de la solidarité. Un lieu hébergeant plusieurs centaines de familles et personnes en situation d’extrême précarité, pour la plupart en situation de handicap.
 

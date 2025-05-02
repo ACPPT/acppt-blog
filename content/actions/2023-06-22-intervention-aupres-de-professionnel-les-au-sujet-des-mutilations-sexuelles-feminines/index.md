@@ -10,6 +10,7 @@ gallery:
 - alt: ''
   src: images/IMG_20230613_190056_924.webp
 title: Intervention auprès de professionnel⋅les au sujet des mutilations sexuelles féminines
+editable: true
 ---
 13/06/2023 - Intervention à la Maison de la Solidarité du Dublineau à Tours, auprès de médecins, puéricultrices, infirmières et travailleuses sociales sur la thématique des mutilations sexuelles féminines.
 

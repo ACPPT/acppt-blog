@@ -6,6 +6,7 @@ featured_image:
   src: images/thumbnail.jpg
 gallery: []
 title: Les violences basées sur le genre
+editable: true
 ---
 **Les violences basées sur le genre** sont définies depuis 2004 par l’**Organisation Mondiale de la Santé** comme étant l’utilisation intentionnelle de la force physique, de menaces à l’encontre des autres ou de soi-même, contre un groupe ou une communauté, qui entraîne ou risque fortement d’entraîner un traumatisme, des dommages psychologiques, des problèmes de développement ou le décès.
 

@@ -14,6 +14,7 @@ gallery:
   - src: images/1024px-FGC_Types.svg_.png
     alt: Schémas comparatifs des types de mutilations génitales féminines
 title: Excisions, Mutilations Sexuelles Féminines (MSF) ou Mutilations Génitales Féminines (MGF)
+editable: true
 ---
 **L'OMS**, **l'UNICEF**, et le **FNUAP** ont publié conjointement en avril 1997 une déclaration définissant les mutilations génitales féminines comme toutes les interventions aboutissant à une **ablation partielle** ou **totale** des organes génitaux externes de la femme, ou toute autre mutilation des organes génitaux féminins pratiquées à des fins non médicales.
 
