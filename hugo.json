@@ -1,7 +1,6 @@
 {
     "$schema": "https://json.schemastore.org/hugo.json",
-    "baseURL": "/contents/",
-    "canonifyURLs": true,
+    "baseURL": "https://acppt.netlify.app/contents/",
     "languageCode": "fr-fr",
     "title": "ACPPT - Blog",
     "theme": "acppt"

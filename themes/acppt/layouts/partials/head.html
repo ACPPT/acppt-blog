@@ -4,14 +4,15 @@
     <!-- TODO : Inject only on Index -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
-    <link rel="stylesheet" href="/css/carrd.css">
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="/menu/menu.css">
-    <script src="/menu/menu.js"></script>
+    <link rel="stylesheet" href="{{ absURL "css/carrd.css" }}">
+    <link rel="stylesheet" href="{{ absURL "css/style.css" }}">
+    <link rel="stylesheet" href="{{ absURL "menu/menu.css" }}">
+    <script src="{{ absURL "menu/menu.js" }}"></script>
     <script>
+        const logoUrl = "{{ absURL "images/logo.png" }}";
         const NAVBAR = {
             logo: {
-                src: "/images/logo.png",
+                src: logoUrl,
                 alt: "Logo de l'association ACPPT",
                 href: "https://acppt2.carrd.co/#home"
             },
