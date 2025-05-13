@@ -1,3 +1,4 @@
+/* Override Carrd */
 html {
     font-size: 16pt;
     font-family: 'Inter', sans-serif;
@@ -20,7 +21,7 @@ html {
         font-size: 14pt;
     }
 }
-/* Override Carrd */
+
 .container.style1:not(:last-child) {
   margin-bottom: 5rem !important;
 }
@@ -221,4 +222,87 @@ article blockquote {
 
 .action-link .button:hover {
     background-color: #005C78;
+}
+
+/** Gallery **/
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    margin: 3rem auto;
+    max-width: 1000px;
+}
+@media (max-width: 736px) {
+    .gallery {
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    }
+}
+@media (max-width: 980px) {
+    .gallery {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+}
+
+.gallery-item {
+    cursor: zoom-in;
+    overflow: hidden;
+    border-radius: 0.5rem;
+}
+
+.gallery-item a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.gallery-item a img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 0.5rem;
+    transition: transform 0.2s ease;
+}
+
+.gallery-item a:hover img {
+    transform: scale(1.02);
+}
+
+/** Gallery - Lightbox **/
+.lightbox {
+    display: none; /* become flex when open */
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.9);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+.lightbox > img.lightbox-img {
+    max-width: 90%;
+    max-height: 90%;
+}
+.lightbox > .close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    color: #fff;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+/** Single post - backlink **/
+.back-link {
+    font-size: 0.95rem;
+    margin-bottom: 1rem !important;
+}
+
+.back-link a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+.back-link a:hover {
+    text-decoration: underline;
 }
