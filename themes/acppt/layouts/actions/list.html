@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+<div class="style8 container default full screen"
+     style="--element-top: 0; --onvisible-speed: 1s; --onvisible-background-color: rgba(0,0,0,0.001);"
+>
+    <div class="wrapper">
+        <div class="inner">
+            <h1 class="style14" style="opacity: 1; transform: none;">Association Chance et Protection Pour Toutes</h1>
+            <h2 class="style15" style="opacity: 1; transform: none;">
+                {{ .Title }}
+            </h2>
+            <p class="style6" style="opacity: 1; transform: none;">
+                <span class="p">
+                    {{ .Description | safeHTML }}
+                </span>
+            </p>
+        </div>
+    </div>
+</div>
+
+<section class="actions-list">
+    <div class="actions-grid">
+        {{ range .Pages }}
+        <article class="action-card">
+            <!-- ... -->
+            {{ $base_url := .Permalink }}
+            {{ with .Params.featured_image }}
+                <img src="{{ urls.JoinPath $base_url .src }}" alt="{{ .alt | default "Image d'illustration de l'action" }}"
+                     class="action-image" />
+            {{ else }}
+                <img src="{{ absURL "images/logo.png" }}" alt="Logo de l'association"
+                     class="action-image" />
+            {{ end }}
+            <p class="action-date">
+                {{ .Date | time.Format ":date_long" }}
+            </p>
+            <h3>
+                <a href="{{ .RelPermalink }}">
+                    {{ .Title }}
+                </a>
+            </h3>
+            {{ with .Params.excerpt }}
+                <p class="action-excerpt">
+                    {{ . | safeHTML }}
+                </p>
+            {{ end }}
+            <p class="action-link">
+                <a href="{{ .RelPermalink }}" class="button">
+                    En savoir plus
+                </a>
+            </p>
+        </article>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
