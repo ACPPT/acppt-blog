@@ -70,15 +70,23 @@ function createNavbar() {
 function toggleMenuResponsively() {
     const navbarWrapper = document.getElementById("navbar-wrapper");
     if (window.innerWidth <= 950) {
+        console.debug("toggleMenuResponsively: close");
         navbarWrapper.removeAttribute("open");
     } else {
+        console.debug("toggleMenuResponsively: open");
         navbarWrapper.setAttribute("open", "true");
     }
 }
 window.addEventListener("resize", toggleMenuResponsively);
 
 function closeAllSubMenus() {
-    const openSubMenus = document.querySelectorAll("details[open]");
+    // if (window.innerWidth > 950) {
+    //     return;
+    // }
+    console.debug("closeAllSubMenus: close");
+    const navbarWrapper = document.getElementById("navbar-wrapper");
+
+    const openSubMenus = navbarWrapper.querySelectorAll("details[open]");
     openSubMenus.forEach((menu) => {
         menu.removeAttribute("open");
     });
@@ -87,7 +95,9 @@ function closeAllSubMenus() {
 function toggleDetailElement(detailElement) {
     if (detailElement.hasAttribute("open")) {
         detailElement.removeAttribute("open");
+        console.debug("toggleDetailElement: close");
     } else {
+        console.debug("toggleDetailElement: open");
         detailElement.setAttribute("open", "true");
     }
 }
@@ -113,7 +123,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const menuLinks = navbarWrapper.querySelectorAll("a");
     menuLinks.forEach(link => {
         link.addEventListener("click", () => {
+            closeAllSubMenus();
             if (window.innerWidth <= 950) {
+                console.debug("menuLinksClick: close");
                 navbarWrapper.removeAttribute("open");
             }
         });
