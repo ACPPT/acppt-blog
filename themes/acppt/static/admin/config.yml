@@ -75,7 +75,7 @@ collections:
         pattern: \d{4}
     fields:
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY"}
+      - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY", format: "YYYY-MM-DD"}
       - {label: "Résumé", name: "excerpt", widget: "text", required: false}
       - label: "Image principale"
         name: "featured_image"
@@ -104,7 +104,7 @@ collections:
         pattern: \d{4}
     fields:
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY"}
+      - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: true}
       - {label: "Résumé", name: "excerpt", widget: "text", required: false}
       - label: "Source"
         name: "source"
