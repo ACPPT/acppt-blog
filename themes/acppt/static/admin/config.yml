@@ -76,18 +76,12 @@ collections:
     fields:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY", format: "YYYY-MM-DD"}
-      - {label: "Date 001", name: "date_001", widget: "datetime",
-         default: "{{now}}"}
-      - {label: "Date 002", name: "date_002", widget: "datetime",
-         default: "{{now}}", format: "DD/MM/YYYY"}
-      - {label: "Date 003", name: "date_003", widget: "datetime",
-         default: "{{now}}", date_format: "DD/MM/YYYY", format: "YYYY-MM-DD"}
-      - {label: "Date 004", name: "date_004", widget: "datetime",
-         default: "{{now}}", date_format: true, time_format: false}
-      - {label: "Date 005", name: "date_005", widget: "datetime",
-         default: "{{now}}", format: "LLL"}
-      - {label: "Date 006", name: "date_006", widget: "datetime",
-         default: "{{now}}", date_format: "DD/MM/YYYY", format: "LLL"}
+      - {label: "Date 001", name: "date_001", widget: "datetime", default: "{{now}}"}
+      - {label: "Date 002", name: "date_002", widget: "datetime", default: "{{now}}", format: "DD/MM/YYYY"}
+      - {label: "Date 003", name: "date_003", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY", format: "YYYY-MM-DD"}
+      - {label: "Date 004", name: "date_004", widget: "datetime", default: "{{now}}", date_format: true, time_format: false}
+      - {label: "Date 005", name: "date_005", widget: "datetime", default: "{{now}}", format: "LLL"}
+      - {label: "Date 006", name: "date_006", widget: "datetime", default: "{{now}}", date_format: "DD/MM/YYYY", format: "LLL"}
       - {label: "Résumé", name: "excerpt", widget: "text", required: false}
       - label: "Image principale"
         name: "featured_image"
@@ -109,7 +103,7 @@ collections:
     media_folder: "images"
     public_folder: "images"
     filter: { field: "editable", value: true }
-    summary: "{{year}}-{{month}}-{{day}} 🗞️ {{source.name | default "?"}} 🏷️ {{title}}"
+    summary: "{{year}}-{{month}}-{{day}} 🗞️ {{source.name}} 🏷️ {{title}}"
     view_groups: # Group by year
       - label: "Année"
         field: "date"
