@@ -1,6 +1,6 @@
 ---
 title: Presse 2
-date: 13/05/2025
+date: 2025-05-12
 source:
   name: XXX
 editable: true
