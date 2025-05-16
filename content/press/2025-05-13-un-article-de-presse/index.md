@@ -1,6 +1,6 @@
 ---
 title: Un article de presse
-date: 13/05/2025
+date: 2025-04-21
 source:
   name: Mediapart
 editable: true
