@@ -21,7 +21,21 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 locale: "fr" # Set the locale for the admin interface
 
 collections:
+  - name: "sources"
+    label: "Sources de presse"
+    label_singular: "Source de presse"
+    folder: "content/sources"
+    create: true
+    slug: "{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: "images"
+    public_folder: "images"
+    fields:
+      - {label: "Nom", name: "name", widget: "string"}
+      - {label: "Logo", name: "logo", widget: "image"}
+
   - name: "actions"
+    # Fields : title, date, excerpt, featured_image, gallery, body, editable
     label: "Actions"
     label_singular: "Action"
     folder: "content/actions"
@@ -65,6 +79,7 @@ collections:
       - {label: "Éditable", name: "editable", widget: "hidden", default: true}
 
   - name: "news"
+    # Fields : title, date, excerpt, featured_image, body, editable
     label: "Actualités"
     label_singular: "Actualité"
     folder: "content/news"
@@ -100,6 +115,7 @@ collections:
       - {label: "Éditable", name: "editable", widget: "hidden", default: true}
 
   - name: "press"
+    # Fields : title, date, excerpt, source, body, editable
     label: "Articles de presse"
     label_singular: "Article de presse"
     folder: "content/press"
@@ -126,11 +142,11 @@ collections:
       - {label: "Résumé", name: "excerpt", widget: "text", required: false}
       - label: "Source"
         name: "source"
-        widget: "object"
-        required: false
-        fields:
-          - {label: "Nom", name: "name", widget: "string"}
-          - {label: "Logo", name: "logo", widget: "image", required: false}
-          - {label: "Lien", name: "link", widget: "string", required: false}
+        widget: "relation"
+        collection: "sources"
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name", "logo"]
+      - {label: "Lien", name: "link", widget: "string", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Éditable", name: "editable", widget: "hidden", default: true}
