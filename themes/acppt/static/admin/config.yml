@@ -30,9 +30,11 @@ collections:
     path: "{{slug}}/index"
     media_folder: "images"
     public_folder: "images"
+    filter: { field: "editable", value: true }
     fields:
       - {label: "Nom", name: "name", widget: "string"}
       - {label: "Logo", name: "logo", widget: "image"}
+      - {label: "Éditable", name: "editable", widget: "hidden", default: true}
 
   - name: "actions"
     # Fields : title, date, excerpt, featured_image, gallery, body, editable
