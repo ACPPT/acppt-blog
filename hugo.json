@@ -3,7 +3,9 @@
     "baseURL": "https://acppt.netlify.app/",
     "languageCode": "fr-fr",
     "defaultContentLanguage": "fr",
-    "title": "ACPPT - Blog",
+    "title": "Association Chance et Protection Pour Toutes",
+    "summaryLength": 0,
+    "enableRobotsTXT": true,
     "theme": "acppt",
      "privacy": {
         "youTube": {

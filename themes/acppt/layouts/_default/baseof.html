@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html>
+<title>
+    {{- block "title" . -}}
+        {{ with .Title }}{{ . }} {{ end }}
+    {{- end -}}
+    | {{ .Site.Title }}
+</title>
 {{- partial "head.html" . -}}
 
 <body>

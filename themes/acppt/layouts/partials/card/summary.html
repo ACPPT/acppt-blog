@@ -1,5 +1,5 @@
-{{ with .Params.excerpt }}
-    <p class="action-excerpt">
+{{ with .Summary }}
+    <p class="action-summary">
         {{ . | safeHTML }}
     </p>
 {{ end }}

@@ -190,7 +190,7 @@ article blockquote {
     text-decoration: none;
 }
 
-.action-card .action-excerpt {
+.action-card .action-summary {
     font-size: 0.95rem;
     color: #444;
     margin: 0 1rem 1rem 1rem;
@@ -336,4 +336,25 @@ article blockquote {
     content: "↗️ )";
     margin-left: 0.15rem;
     font-style: normal;
+}
+
+/** 404 page **/
+.not-found {
+    text-align: center;
+    padding: 4rem 2rem;
+}
+
+.not-found h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.not-found .button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #0E6984;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 2rem;
 }

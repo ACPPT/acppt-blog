@@ -1,4 +1,7 @@
 <head>
+    {{ with .Summary }}
+        <meta name="description" content="{{ . | plainify | safeHTML }}" />
+    {{ end }}
     {{ template "_internal/opengraph.html" . }}
     
     <!-- TODO : Inject only on Index -->
