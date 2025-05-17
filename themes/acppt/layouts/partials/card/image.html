@@ -1,4 +1,3 @@
 {{ $cover := partial "partials/cover.html" . }}
 {{ $css := $cover.css | append "action-image" }}
-<img src="{{ $cover.src }}" alt="{{ $cover.alt }}"
-     class="{{ delimit $css " " }}" />
+{{ partial "image-figure.html" (dict "src" $cover.src "alt" $cover.alt "css" $css) }}

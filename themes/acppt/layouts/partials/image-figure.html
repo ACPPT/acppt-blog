@@ -1,0 +1,19 @@
+{{ $src := .src }}
+{{ $alt := .alt }}
+{{ $webp := replaceRE `\.(jpg|jpeg|png)$` ".webp" $src }}
+{{ $IsExternal := (urls.Parse (relURL $src)).IsAbs }}
+{{ $css := .css | default slice }}
+{{ $caption := .caption }}
+
+<figure class="image-figure">
+    <picture>
+        {{ if not $IsExternal }}
+            <source srcset="{{ $webp }}" type="image/webp" />
+        {{ end }}
+        <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" class="{{ delimit $css " " }}" />
+    </picture>
+
+    {{ with $caption }}
+        <figcaption>{{ . | safeHTML }}</figcaption>
+    {{ end }}
+</figure>
