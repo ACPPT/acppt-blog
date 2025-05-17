@@ -310,3 +310,30 @@ article blockquote {
 .back-link a:hover {
     text-decoration: underline;
 }
+
+/** Single post - Press source **/
+
+.press-source {
+    font-size: 0.95rem;
+    font-style: italic;
+}
+
+.press-source a {
+    font-size: 0.8em;
+    display: block;
+}
+
+.press-source a::before {
+    display: inline-block;
+    text-decoration: none;
+    content: "(";
+    margin-right: 0.15rem;
+    font-style: normal;
+}
+.press-source a::after {
+    display: inline-block;
+    text-decoration: none;
+    content: "↗️ )";
+    margin-left: 0.15rem;
+    font-style: normal;
+}

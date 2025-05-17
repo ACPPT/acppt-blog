@@ -20,8 +20,21 @@
                 </h2>
                 <p class="style6" style="opacity: 1; transform: none;">
                     <span class="p">
-                        {{ .Date | time.Format ":date_long" }}
+                        {{ .Date | time.Format ":date_long" }}<br />
                     </span>
+                    {{ if .Params.source }}
+                    <span class="press-source" style="opacity: 1; transform: none;">
+                        {{ $link := .Params.link }}
+                        {{ $source := "" }}
+                        {{ with site.GetPage (printf "sources/%s" .Params.source) }}
+                            {{ $source = printf "Publié sur %s" .Title }}
+                        {{ end }}
+                        {{ $source }}
+                        {{ if $link }}
+                            <a href="{{ $link }}" target="_blank">source</a>
+                        {{ end }}
+                    </span>
+                    {{ end }}
                 </p>
                 <p class="back-link">
                     <a href="{{ .Parent.Permalink }}">← Retour à {{ lower .CurrentSection.Title }}</a>
