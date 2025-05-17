@@ -1,7 +1,7 @@
 ---
 date: 2023-03-28 14:15:31+00:00
-extra:
-  old_url: https://associationcppt.fr/2023-distribution-de-protections-menstruelles-au-college-bonfi-a-conakry/
+aliases:
+- https://associationcppt.fr/2023-distribution-de-protections-menstruelles-au-college-bonfi-a-conakry/
 featured_image:
   src: images/334947244_969195017820354_4204020217010416415_n.jpg
 gallery:

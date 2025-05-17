@@ -1,7 +1,7 @@
 ---
 date: 2023-04-04 13:54:57+00:00
-extra:
-  old_url: https://associationcppt.fr/2023-serie-de-lives-instagram-en-collaboration-avec-plusieurs-associations-a-retrouver-sur-notre-compte-acppt-association_cppt-photos-et-videos-instagram/
+aliases:
+- https://associationcppt.fr/2023-serie-de-lives-instagram-en-collaboration-avec-plusieurs-associations-a-retrouver-sur-notre-compte-acppt-association_cppt-photos-et-videos-instagram/
 featured_image:
   alt: Affiche du Marsathon des Droits des Femmes, co-organisé par WILILO et ACPPT
   src: images/Int7-911x675.png

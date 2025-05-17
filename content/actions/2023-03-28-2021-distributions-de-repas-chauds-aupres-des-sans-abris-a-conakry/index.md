@@ -1,7 +1,7 @@
 ---
 date: 2023-03-28 07:26:52+00:00
-extra:
-  old_url: https://associationcppt.fr/2021-distributions-de-repas-chauds-aupres-des-sans-abris-a-conakry/
+aliases:
+- https://associationcppt.fr/2021-distributions-de-repas-chauds-aupres-des-sans-abris-a-conakry/
 featured_image:
   src: images/Capture-decran-2023-03-28-a-15.58.58.png
 gallery: []

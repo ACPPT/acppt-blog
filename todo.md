@@ -1,6 +1,7 @@
-- [ ] Replace DecapCMS with [SveltiaCMS](https://github.com/sveltia/sveltia-cms/)
+- [ ] ~~Replace DecapCMS with [SveltiaCMS](https://github.com/sveltia/sveltia-cms/)~~
+    - Impossible for now, as git-gateway is not yet supported by SveltiaCMS
 - [ ] Handle social networks automatic import (with diego ?)
 - [ ] Handle images optimization
 - [ ] Configure Analytics /SEO tools
-- [ ] Replace usage of `extra.old_url` with [`aliases`](https://gohugo.io/methods/page/aliases/) in the frontmatter
-- [ ] Replace youtube hardcoded iframes with [youtube shortcode](https://gohugo.io/shortcodes/youtube/)
+- [x] Replace usage of `extra.old_url` with [`aliases`](https://gohugo.io/methods/page/aliases/) in the frontmatter
+- [x] Replace youtube hardcoded iframes with [youtube shortcode](https://gohugo.io/shortcodes/youtube/)

@@ -1,9 +1,9 @@
 ---
 date: 2020-03-27 17:55:55+00:00
+aliases:
+- https://associationcppt.fr/les-mutilations-genitales-feminines/
+- https://associationcppt.fr/2019-participation-de-notre-association-a-la-campagne-de-prevention-alerte-excision-de-lassociation-excision-parlons-en/
 extra:
-  old_url:
-    - https://associationcppt.fr/les-mutilations-genitales-feminines/
-    - https://associationcppt.fr/2019-participation-de-notre-association-a-la-campagne-de-prevention-alerte-excision-de-lassociation-excision-parlons-en/
   old_title:
     - 2019 - Participation de notre association à la campagne de prévention
       Alerte Excision de l'association Excision Parlons-En
@@ -31,10 +31,6 @@ editable: true
 
 Elles sont généralement pratiquées à l'aide d'un **couteau** ou d'une **lame de rasoir** souvent sans **anesthésie**.
 
-
-
 {{< youtube fdusHJKsC7c >}}
-
-
 
 {{< youtube 3hIWEqBjdck >}}

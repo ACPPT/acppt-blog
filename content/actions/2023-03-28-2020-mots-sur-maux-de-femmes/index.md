@@ -1,10 +1,10 @@
 ---
 date: 2023-03-28 07:23:03+00:00
+aliases:
+- https://associationcppt.fr/2020-co-organisation-de-levenement-mots-sur-maux-des-femmes/
+  - https://associationcppt.fr/8-mars-journee-internationale-des-droits-des-femmes/
 extra:
-  old_url:
-    - https://associationcppt.fr/2020-co-organisation-de-levenement-mots-sur-maux-des-femmes/
-    - https://associationcppt.fr/8-mars-journee-internationale-des-droits-des-femmes/
-  old_title: 
+  old_title:
     - 2020 - Mots sur maux de femmes
     - 8 mars - Journée internationale des droits des femmes
 featured_image:

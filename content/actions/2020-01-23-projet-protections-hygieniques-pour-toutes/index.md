@@ -1,7 +1,7 @@
 ---
 date: 2020-01-23 09:40:58+00:00
-extra:
-  old_url: https://associationcppt.fr/projet-protections-hygieniques-pour-toutes/
+aliases:
+- https://associationcppt.fr/projet-protections-hygieniques-pour-toutes/
 featured_image:
   src: images/unnamed-22.jpg
 gallery: []

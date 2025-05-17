@@ -1,7 +1,7 @@
 ---
 date: 2023-03-28 07:32:02+00:00
-extra:
-  old_url: https://associationcppt.fr/2022-ateliers-dinformation-et-dorientation-en-indre-et-loire/
+aliases:
+- https://associationcppt.fr/2022-ateliers-dinformation-et-dorientation-en-indre-et-loire/
 featured_image:
   src: images/Capture-decran-2023-03-20-a-11.18.21-980x569.png
 gallery: []

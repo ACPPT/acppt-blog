@@ -1,7 +1,7 @@
 ---
 date: 2023-03-28 07:24:23+00:00
-extra:
-  old_url: https://associationcppt.fr/2021-dons-dhabillements-a-la-cite-de-la-solidarite-a-taouyah-conakry/
+aliases:
+- https://associationcppt.fr/2021-dons-dhabillements-a-la-cite-de-la-solidarite-a-taouyah-conakry/
 featured_image:
   src: images/Untitledddd-941x675.png
 gallery:

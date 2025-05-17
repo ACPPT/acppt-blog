@@ -1,9 +1,9 @@
 ---
 date: 2020-03-08 16:07:00+00:00
+aliases:
+- https://associationcppt.fr/journee-internationale-des-droits-des-femmes-sensibilisation-et-dons-en-guinee/
+- https://associationcppt.fr/2020-journee-internationale-des-droits-des-femmes/
 extra:
-  old_url:
-    - https://associationcppt.fr/journee-internationale-des-droits-des-femmes-sensibilisation-et-dons-en-guinee/
-    - https://associationcppt.fr/2020-journee-internationale-des-droits-des-femmes/
   old_title:
     - 2020 - Journée internationale des droits des femmes
     - Journée internationale des droits des femmes sensibilisation et dons en Guinée
