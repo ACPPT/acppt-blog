@@ -27,6 +27,12 @@ editable: true
 
 Elles sont généralement pratiquées à l'aide d'un **couteau** ou d'une **lame de rasoir** souvent sans **anesthésie**.
 
+---
+
+{{< youtube id=fdusHJKsC7c >}}
+
+---
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fdusHJKsC7c" title="Déborah Diallo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3hIWEqBjdck" title="Keyla K - Le Cauchemar de l&#39;Excision feat Marema (Clip Officiel)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
