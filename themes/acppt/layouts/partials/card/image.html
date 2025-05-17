@@ -1,0 +1,14 @@
+{{ $base_url := .Permalink }}
+{{ with .Params.featured_image }}
+    <img src="{{ urls.JoinPath $base_url .src }}" alt="{{ .alt | default "Image d'illustration de l'action" }}"
+         class="action-image" />
+{{ else }}
+{{ with .Params.source }}{{ with site.GetPage "/sources/Mediapart" }}
+    {{ $sourceName := .Params.name }}
+    {{ with .Params.logo }}
+    <img src="{{ . }}" alt="{{ printf "Logo de %s" $sourceName }}"
+         class="action-image action-image-contain" />
+    {{ else }}
+    <img src="{{ absURL "images/logo.png" }}" alt="Logo de l'association"
+         class="action-image" />
+{{ end }}{{ end }}{{ end }}{{ end }}

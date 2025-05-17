@@ -1,0 +1,10 @@
+<article class="action-card">
+    {{ partial "card/image.html" . }}
+    {{ partial "card/overtitle.html" (slice
+        (.Date | time.Format ":date_long")
+        (.Params.source))
+    }}
+    {{ partial "card/title.html" . }}
+    {{ partial "card/summary.html" . }}
+    {{ partial "card/buttons.html" . }}
+</article>

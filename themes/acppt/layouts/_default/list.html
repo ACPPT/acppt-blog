@@ -1,26 +1,33 @@
 {{ define "main" }}
-    <div id="container01"
-         class="style1 container columns full screen"
-         style="--element-top: 0; --onvisible-speed: 1s; --onvisible-background-color: rgba(0,0,0,0.001);"
-    >
-        <div class="wrapper">
-            <div class="inner">
-                <h2 class="style2" style="opacity: 1; transform: none;">
-                    {{ .Title }}
-                </h2>
-            </div>
+
+<div class="style8 container default full screen"
+     style="--element-top: 0; --onvisible-speed: 1s; --onvisible-background-color: rgba(0,0,0,0.001);"
+>
+    <div class="wrapper">
+        <div class="inner">
+            <h1 class="style14" style="opacity: 1; transform: none;">Association Chance et Protection Pour Toutes</h1>
+            <h2 class="style15" style="opacity: 1; transform: none;">
+                {{ .Title }}
+            </h2>
+            <p class="style6" style="opacity: 1; transform: none;">
+                <span class="p">
+                    {{ .Description | safeHTML }}
+                </span>
+            </p>
+            {{ if hugo.IsDevelopment }}
+            <p class="back-link">
+                <a href="{{ .Parent.Permalink }}">← Retour</a>
+            </p>
+            {{ end }}
         </div>
     </div>
-    {{ range .Pages }}
-        <article>
-            <h2 class="">
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </h2>
-        </article>
-    {{ end }}
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
+</div>
+
+<section class="actions-list">
+    <div class="actions-grid">
+        {{ range .Pages }}
+            {{ .Render "card" }}
+        {{ end }}
+    </div>
+</section>
 {{ end }}
