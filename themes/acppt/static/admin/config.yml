@@ -127,7 +127,7 @@ collections:
     media_folder: "images"
     public_folder: "images"
     filter: { field: "editable", value: true }
-    summary: "{{year}}-{{month}}-{{day}} 🗞️ {{source.name}} 🏷️ {{title}}"
+    summary: "{{year}}-{{month}}-{{day}} 🗞️ {{fields.source}} 🏷️ {{title}}"
     view_groups: # Group by year
       - label: "Année"
         field: "date"
@@ -148,7 +148,7 @@ collections:
         collection: "sources"
         search_fields: ["name"]
         value_field: "name"
-        display_fields: ["name", "logo"]
+        display_fields: ["name"]
       - {label: "Lien", name: "link", widget: "string", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Éditable", name: "editable", widget: "hidden", default: true}
