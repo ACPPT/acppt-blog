@@ -1,8 +1,8 @@
 ---
 date: 2020-03-27 17:55:55+00:00
 aliases:
-- https://associationcppt.fr/les-mutilations-genitales-feminines/
-- https://associationcppt.fr/2019-participation-de-notre-association-a-la-campagne-de-prevention-alerte-excision-de-lassociation-excision-parlons-en/
+- /les-mutilations-genitales-feminines/
+- /2019-participation-de-notre-association-a-la-campagne-de-prevention-alerte-excision-de-lassociation-excision-parlons-en/
 extra:
   old_title:
     - 2019 - Participation de notre association à la campagne de prévention

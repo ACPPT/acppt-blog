@@ -1,7 +1,7 @@
 ---
 date: 2023-06-22 22:00:45+00:00
 aliases:
-- https://associationcppt.fr/intervention-aupres-de-professionnel-les-au-sujet-des-mutilations-sexuelles-feminines/
+- /intervention-aupres-de-professionnel-les-au-sujet-des-mutilations-sexuelles-feminines/
 featured_image:
   src: images/IMG_20230613_190057_051-1080x675.webp
 gallery:

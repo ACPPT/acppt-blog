@@ -1,7 +1,7 @@
 ---
 date: 2021-05-23 22:18:53+00:00
 aliases:
-- https://associationcppt.fr/protections-menstruelles-en-milieu-carceral-en-guinee/
+- /protections-menstruelles-en-milieu-carceral-en-guinee/
 featured_image:
   alt: Affiche de la campagne de distribution de kits d'hygiène féminine en milieu carcéral
   src: images/kit-hygienique-1024x1024.jpg

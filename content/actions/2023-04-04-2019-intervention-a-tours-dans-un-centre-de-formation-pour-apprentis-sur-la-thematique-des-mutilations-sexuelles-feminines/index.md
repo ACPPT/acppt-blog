@@ -1,7 +1,7 @@
 ---
 date: 2023-04-04 13:14:33+00:00
 aliases:
-- https://associationcppt.fr/2019-intervention-a-tours-dans-un-centre-de-formation-pour-apprentis-sur-la-thematique-des-mutilations-sexuelle-feminines/
+- /2019-intervention-a-tours-dans-un-centre-de-formation-pour-apprentis-sur-la-thematique-des-mutilations-sexuelle-feminines/
 featured_image:
   src: images/Capture-decran-2023-04-04-a-15.13.20.png
   alt: Capture d'écran du reportage Konbini News, qui revient, entre autres, sur l'intervention de ACPPT au CFA des Douets

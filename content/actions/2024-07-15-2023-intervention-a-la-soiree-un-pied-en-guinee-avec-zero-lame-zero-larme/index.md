@@ -1,7 +1,7 @@
 ---
 date: 2024-07-15 10:13:24+00:00
 aliases:
-- https://associationcppt.fr/2023-intervention-a-la-soiree-un-pied-en-guinee-avec-zero-lame-zero-larme/
+- /2023-intervention-a-la-soiree-un-pied-en-guinee-avec-zero-lame-zero-larme/
 featured_image:
   alt: Affiche d'annonce de la soirée caritative "Un pied en Guinée"
   src: images/387723798_643635714541534_3520116578430396662_nd.jpg

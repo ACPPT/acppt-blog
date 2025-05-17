@@ -1,7 +1,7 @@
 ---
 date: 2023-06-23 08:14:02+00:00
 aliases:
-- https://associationcppt.fr/campagne-de-communication-et-de-sensibilisation-a-lexcision/
+- /campagne-de-communication-et-de-sensibilisation-a-lexcision/
 featured_image:
   alt: Affiche de la campagne de communication et de sensibilisation à l'excision
   src: images/AFFICHE-ACPPT_Plan-de-travail-1-842x675.png

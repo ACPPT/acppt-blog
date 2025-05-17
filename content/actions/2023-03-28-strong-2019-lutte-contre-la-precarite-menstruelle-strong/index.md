@@ -1,7 +1,7 @@
 ---
 date: 2023-03-28 07:15:56+00:00
 aliases:
-- https://associationcppt.fr/2849-2/
+- /2849-2/
 featured_image:
   src: images/unnamed-22.jpg
 gallery:

@@ -1,7 +1,7 @@
 ---
 date: 2020-03-27 17:53:10+00:00
 aliases:
-- https://associationcppt.fr/les-violences-basees-sur-le-genre/
+- /les-violences-basees-sur-le-genre/
 featured_image:
   src: images/thumbnail.jpg
 gallery: []

@@ -2,7 +2,7 @@
 title: «SEXposer, quand l’intime devient politique»
 date: 2023-11-24T12:00:00.000Z
 aliases:
-  - https://associationcppt.fr/sexposer-intime-politique/
+  - /sexposer-intime-politique/
 featured_image:
   src: images/img-20231125-wa0091-1080x675.jpg
   alt: Test alt

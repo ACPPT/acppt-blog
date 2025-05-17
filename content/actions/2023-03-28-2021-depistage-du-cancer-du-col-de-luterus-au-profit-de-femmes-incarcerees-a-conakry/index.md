@@ -1,7 +1,7 @@
 ---
 date: 2023-03-28 07:30:08+00:00
 aliases:
-- https://associationcppt.fr/2853-2/
+- /2853-2/
 gallery:
 - alt: Affiche de la campagne de dépistage du cancer du col de l'utérus en milieu carcéral
   src: images/Capture-decran-2023-03-28-a-16.07.42.png

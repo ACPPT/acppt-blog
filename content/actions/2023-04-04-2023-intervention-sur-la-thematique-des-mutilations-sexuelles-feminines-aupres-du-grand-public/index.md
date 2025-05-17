@@ -1,7 +1,7 @@
 ---
 date: 2023-04-04 13:50:30+00:00
 aliases:
-- https://associationcppt.fr/2023-intervention-sur-la-thematique-des-mutilations-sexuelles-feminines-aupres-du-grand-public/
+- /2023-intervention-sur-la-thematique-des-mutilations-sexuelles-feminines-aupres-du-grand-public/
 featured_image:
   src: images/admin-ajax.jpg
 gallery:

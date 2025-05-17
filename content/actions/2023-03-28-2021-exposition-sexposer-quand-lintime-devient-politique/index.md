@@ -1,7 +1,7 @@
 ---
 date: 2023-03-28 07:27:16+00:00
 aliases:
-- https://associationcppt.fr/2021-participation-au-projet-sexposer-quand-lintime-devient-politique/
+- /2021-participation-au-projet-sexposer-quand-lintime-devient-politique/
 featured_image:
   src: images/Expo-2_Page_1-744x675.jpg
 gallery:

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-04 13:35:36+00:00
 aliases:
-- https://associationcppt.fr/2019-intervention-lors-dun-cine-debat-en-prelude-du-25-novembre-journee-internationale-de-lutte-pour-lelimination-des-violences-a-legard-des-femmes/
+- /2019-intervention-lors-dun-cine-debat-en-prelude-du-25-novembre-journee-internationale-de-lutte-pour-lelimination-des-violences-a-legard-des-femmes/
 featured_image:
   alt: Affiche du film "Fleur du désert"
   src: images/affiche_fleur_du_desert-980x551.jpg

@@ -1,7 +1,7 @@
 ---
 date: 2023-06-26 11:37:55+00:00
 aliases:
-- https://associationcppt.fr/msf-weekend-de-sensibilisation-au-festival-solidays/
+- /msf-weekend-de-sensibilisation-au-festival-solidays/
 featured_image:
   src: images/20230623_170702-980x1499-1-980x675.jpg
 gallery:

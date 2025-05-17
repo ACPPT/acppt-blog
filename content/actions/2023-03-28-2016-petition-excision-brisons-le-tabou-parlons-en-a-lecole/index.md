@@ -1,7 +1,7 @@
 ---
 date: 2023-03-28 07:13:32+00:00
 aliases:
-- https://associationcppt.fr/2016-mutilations-sexuelles-feminines-a-lecole/
+- /2016-mutilations-sexuelles-feminines-a-lecole/
 featured_image:
   alt: Photos de femmes avec des affiches \#BrisonsLeTabou
   src: images/12998217_1689815397935162_6574947483441641241_o.jpg

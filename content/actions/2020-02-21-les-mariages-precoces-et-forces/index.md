@@ -1,8 +1,8 @@
 ---
 date: 2020-02-21 17:58:00+00:00
 aliases:
-- https://associationcppt.fr/les-mariages-precoces-et-forces/
-- https://associationcppt.fr/2019-intervention-de-lantenne-de-guinee-au-lycee-2-octobre-a-conakry/
+- /les-mariages-precoces-et-forces/
+- /2019-intervention-de-lantenne-de-guinee-au-lycee-2-octobre-a-conakry/
 extra:
   old_title:
     - "2019 - Présentation de l'action de notre antenne guinéenne au lycée de Conakry : Sensibilisation contre les mariages précoces et forcés"
