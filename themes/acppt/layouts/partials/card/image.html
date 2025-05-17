@@ -1,23 +1,33 @@
 {{ $src := "" }}
 {{ $alt := "" }}
-{{ $is_contain_mode := false }}
+{{ $img_classes := slice "action-image" }}
+
+{{ define "partials/resolveImageSrc" }}
+    {{ $base := .base }}
+    {{ $path := .path }}
+    {{ $result := "" }}
+    {{ if (urls.Parse $path).IsAbs }}
+        {{ $result = $path }}
+    {{ else }}
+        {{ $result = urls.JoinPath $base $path }}
+    {{ end }}
+    {{ return $result }}
+{{ end }}
 
 {{ if .Params.featured_image }}
-    {{ $src = urls.JoinPath .Permalink .Params.featured_image.src }}
+    {{ $opts := dict "base" .Permalink "path" .Params.featured_image.src }}
+    {{ $src = partial "resolveImageSrc" $opts }}
     {{ $alt = .Params.featured_image.alt | default "Image d'illustration de l'action" }}
 {{ else if .Params.source }}
     {{ with site.GetPage (urls.JoinPath "/sources" .Params.source) }}
-        {{ if (urls.Parse .Params.logo).IsAbs }}
-            {{ $src = .Params.logo }}
-        {{ else }}
-            {{ $src = urls.JoinPath .Permalink .Params.logo }}
-        {{ end }}
+        {{ $opts := dict "base" .Permalink "path" .Params.logo }}
+        {{ $src = partial "resolveImageSrc" $opts }}
         {{ $alt = printf "Logo de %s" .Title }}
-        {{ $is_contain_mode = true }}
+        {{ $img_classes = $img_classes | append "action-image-contain" }}
     {{ end }}
 {{ else }}
     {{ $src = absURL "images/logo.png" }}
     {{ $alt = "Logo de l'association" }}
 {{ end }}
-<img src="{{ $src }}" alt="{{ $alt }}"
-     class="action-image {{ if $is_contain_mode }}action-image-contain{{ end }}" />
+<img src="{{ $src | safeURL }}" alt="{{ $alt }}"
+     class="{{ delimit $img_classes " " }}" />
