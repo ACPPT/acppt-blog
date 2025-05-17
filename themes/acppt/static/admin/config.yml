@@ -32,7 +32,7 @@ collections:
     public_folder: "images"
     filter: { field: "editable", value: true }
     fields:
-      - {label: "Nom", name: "name", widget: "string"}
+      - {label: "Nom", name: "title", widget: "string"}
       - {label: "Logo", name: "logo", widget: "image"}
       - {label: "Éditable", name: "editable", widget: "hidden", default: true}
 
@@ -146,9 +146,9 @@ collections:
         name: "source"
         widget: "relation"
         collection: "sources"
-        search_fields: ["name"]
-        value_field: "name"
-        display_fields: ["name"]
+        search_fields: ["title"]
+        value_field: "slug"
+        display_fields: ["title"]
       - {label: "Lien", name: "link", widget: "string", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Éditable", name: "editable", widget: "hidden", default: true}
