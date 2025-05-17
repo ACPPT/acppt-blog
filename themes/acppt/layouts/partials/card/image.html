@@ -1,14 +1,23 @@
-{{ $base_url := .Permalink }}
-{{ with .Params.featured_image }}
-    <img src="{{ urls.JoinPath $base_url .src }}" alt="{{ .alt | default "Image d'illustration de l'action" }}"
-         class="action-image" />
+{{ $src := "" }}
+{{ $alt := "" }}
+{{ $is_contain_mode := false }}
+
+{{ if .Params.featured_image }}
+    {{ $src = urls.JoinPath .Permalink .Params.featured_image.src }}
+    {{ $alt = .Params.featured_image.alt | default "Image d'illustration de l'action" }}
+{{ else if .Params.source }}
+    {{ with site.GetPage (urls.JoinPath "/sources" .Params.source) }}
+        {{ if (urls.Parse .Params.logo).IsAbs }}
+            {{ $src = .Params.logo }}
+        {{ else }}
+            {{ $src = urls.JoinPath .Permalink .Params.logo }}
+        {{ end }}
+        {{ $alt = printf "Logo de %s" .Title }}
+        {{ $is_contain_mode = true }}
+    {{ end }}
 {{ else }}
-{{ with .Params.source }}{{ with site.GetPage "/sources/Mediapart" }}
-    {{ $sourceName := .Params.name }}
-    {{ with .Params.logo }}
-    <img src="{{ . }}" alt="{{ printf "Logo de %s" $sourceName }}"
-         class="action-image action-image-contain" />
-    {{ else }}
-    <img src="{{ absURL "images/logo.png" }}" alt="Logo de l'association"
-         class="action-image" />
-{{ end }}{{ end }}{{ end }}{{ end }}
+    {{ $src = absURL "images/logo.png" }}
+    {{ $alt = "Logo de l'association" }}
+{{ end }}
+<img src="{{ $src }}" alt="{{ $alt }}"
+     class="action-image {{ if $is_contain_mode }}action-image-contain{{ end }}" />
