@@ -1,0 +1,6 @@
+- [ ] Replace DecapCMS with [SveltiaCMS](https://github.com/sveltia/sveltia-cms/)
+- [ ] Handle social networks automatic import (with diego ?)
+- [ ] Handle images optimization
+- [ ] Configure Analytics /SEO tools
+- [ ] Replace usage of `extra.old_url` with [`aliases`](https://gohugo.io/methods/page/aliases/) in the frontmatter
+- [ ] Replace youtube hardcoded iframes with [youtube shortcode](https://gohugo.io/shortcodes/youtube/)
