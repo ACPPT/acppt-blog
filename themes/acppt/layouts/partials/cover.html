@@ -1,0 +1,21 @@
+{{ $src := "" }}
+{{ $alt := "" }}
+{{ $css := slice }}
+
+{{ if .Params.featured_image }}
+    {{ $opts := dict "base" .Permalink "path" .Params.featured_image.src }}
+    {{ $src = partial "resolveImageSrc" $opts }}
+    {{ $alt = .Params.featured_image.alt | default "Image d'illustration de l'action" }}
+{{ else if .Params.source }}
+    {{ with site.GetPage (urls.JoinPath "/sources" .Params.source) }}
+        {{ $opts := dict "base" .Permalink "path" .Params.logo }}
+        {{ $src = partial "resolveImageSrc" $opts }}
+        {{ $alt = printf "Logo de %s" .Title }}
+        {{ $css = $css | append "image-contain" }}
+    {{ end }}
+{{ else }}
+    {{ $src = absURL "images/logo.png" }}
+    {{ $alt = "Logo de l'association" }}
+    {{ $css = $css | append "image-contain" }}
+{{ end }}
+{{ return dict "src" $src "alt" $alt "css" $css }}

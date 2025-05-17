@@ -1,8 +1,12 @@
 <article class="action-card">
+    {{ $source_title := "" }}
+    {{ with site.GetPage (printf "sources/%s" .Params.source) }}
+        {{ $source_title = .Title }}
+    {{ end }}
     {{ partial "card/image.html" . }}
     {{ partial "card/overtitle.html" (slice
         (.Date | time.Format ":date_long")
-        (.Params.source))
+        ($source_title))
     }}
     {{ partial "card/title.html" . }}
     {{ partial "card/summary.html" . }}

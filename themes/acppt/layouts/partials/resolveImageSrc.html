@@ -1,0 +1,9 @@
+{{ $base := .base }}
+{{ $path := .path }}
+{{ $result := "" }}
+{{ if (urls.Parse .path).IsAbs }}
+    {{ $result = .path }}
+{{ else }}
+    {{ $result = urls.JoinPath .base .path }}
+{{ end }}
+{{ return $result }}

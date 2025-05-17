@@ -6,12 +6,8 @@
             <div>
                 <div id="heroImage" class="styleHero image" style="opacity: 1; transform: none;">
                     <span class="frame">
-                        {{ with .Params.featured_image }}
-                            {{ $src := urls.JoinPath $.Permalink .src }}
-                            <img src="{{ $src }}" alt="{{ .alt }}" />
-                        {{ else }}
-                            <img src="{{ absURL "images/logo.png" }}" alt="Logo de l'association" />
-                        {{ end }}
+                        {{ $cover := partial "partials/cover.html" . }}
+                        <img src="{{ $cover.src }}" alt="{{ $cover.alt }}" class="{{ delimit $cover.css " " }}"/>
                     </span>
                 </div>
             </div>
@@ -46,7 +42,7 @@
         {{ $images = $images | append . }}
     {{ end }}
     {{ range $images }}
-        {{ $src := urls.JoinPath $.Permalink .src }}
+        {{ $src := partial "resolveImageSrc" (dict "base" $.Permalink "path" .src) }}
         <div class="gallery-item">
             <a href="{{ $src }}" target="_blank"
             onclick="openLightbox(event, '{{ $src }}')"

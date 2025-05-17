@@ -1,33 +1,4 @@
-{{ $src := "" }}
-{{ $alt := "" }}
-{{ $img_classes := slice "action-image" }}
-
-{{ define "partials/resolveImageSrc" }}
-    {{ $base := .base }}
-    {{ $path := .path }}
-    {{ $result := "" }}
-    {{ if (urls.Parse $path).IsAbs }}
-        {{ $result = $path }}
-    {{ else }}
-        {{ $result = urls.JoinPath $base $path }}
-    {{ end }}
-    {{ return $result }}
-{{ end }}
-
-{{ if .Params.featured_image }}
-    {{ $opts := dict "base" .Permalink "path" .Params.featured_image.src }}
-    {{ $src = partial "resolveImageSrc" $opts }}
-    {{ $alt = .Params.featured_image.alt | default "Image d'illustration de l'action" }}
-{{ else if .Params.source }}
-    {{ with site.GetPage (urls.JoinPath "/sources" .Params.source) }}
-        {{ $opts := dict "base" .Permalink "path" .Params.logo }}
-        {{ $src = partial "resolveImageSrc" $opts }}
-        {{ $alt = printf "Logo de %s" .Title }}
-        {{ $img_classes = $img_classes | append "action-image-contain" }}
-    {{ end }}
-{{ else }}
-    {{ $src = absURL "images/logo.png" }}
-    {{ $alt = "Logo de l'association" }}
-{{ end }}
-<img src="{{ $src | safeURL }}" alt="{{ $alt }}"
-     class="{{ delimit $img_classes " " }}" />
+{{ $cover := partial "partials/cover.html" . }}
+{{ $css := $cover.css | append "action-image" }}
+<img src="{{ $cover.src }}" alt="{{ $cover.alt }}"
+     class="{{ delimit $css " " }}" />

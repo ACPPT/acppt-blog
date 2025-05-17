@@ -169,8 +169,9 @@ article blockquote {
     object-position: top;
     display: block;
 }
-.action-card .action-image.action-image-contain {
-    object-fit: contain;
+.image-contain {
+    object-fit: contain !important;
+    padding: 0.5rem;
 }
 
 .action-card .action-overtitle {
