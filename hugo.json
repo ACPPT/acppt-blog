@@ -4,5 +4,10 @@
     "languageCode": "fr-fr",
     "defaultContentLanguage": "fr",
     "title": "ACPPT - Blog",
-    "theme": "acppt"
+    "theme": "acppt",
+     "privacy": {
+        "youTube": {
+           "privacyEnhanced": true
+        }
+     }
 }
