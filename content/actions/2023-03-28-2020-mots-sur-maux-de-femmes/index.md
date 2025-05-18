@@ -2,7 +2,7 @@
 date: 2023-03-28 07:23:03+00:00
 aliases:
 - /2020-co-organisation-de-levenement-mots-sur-maux-des-femmes/
-  - /8-mars-journee-internationale-des-droits-des-femmes/
+- /8-mars-journee-internationale-des-droits-des-femmes/
 extra:
   old_title:
     - 2020 - Mots sur maux de femmes

@@ -6,3 +6,5 @@
 - [x] Configure Analytics / SEO tools
 - [x] Replace usage of `extra.old_url` with [`aliases`](https://gohugo.io/methods/page/aliases/) in the frontmatter
 - [x] Replace youtube hardcoded iframes with [youtube shortcode](https://gohugo.io/shortcodes/youtube/)
+- [ ] Fix font on carrd blocks titles
+- [ ] Handle existing old site URLs redirections
