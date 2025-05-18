@@ -1,3 +1,5 @@
+# ROOT URL REDIRECTS
+/ https://dev.associationcppt.fr/ 301!
 # AUTOMATICALLY MIGRATED OLD URLs
 /projet-protections-hygieniques-pour-toutes /contents/actions/2020-01-23-projet-protections-hygieniques-pour-toutes
 /8-mars-journee-internationale-des-droits-des-femmes /contents/actions/2020-03-08-8-mars-journee-internationale-des-droits-des-femmes
