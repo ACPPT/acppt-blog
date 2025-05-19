@@ -147,7 +147,7 @@ collections:
         widget: "relation"
         collection: "sources"
         search_fields: ["title"]
-        value_field: "slug"
+        value_field: "{{slug}}"
         display_fields: ["title"]
       - {label: "Lien", name: "link", widget: "string", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
