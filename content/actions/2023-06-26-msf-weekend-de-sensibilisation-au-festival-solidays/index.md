@@ -11,7 +11,7 @@ gallery:
   src: images/IMG-20230624-WA0042.jpg
 - alt: ''
   src: images/Excision-sensibilisation-au-festival-Solidays.jpg
-title: MSF - Weekend de sensibilisation au festival Solidays
+title: Weekend de sensibilisation au festival Solidays
 editable: true
 ---
 Du 23 au 25 juin 2023, nous avons été présentes au festival Solidays pour la troisième année aux cotés de l’association [Excision Parlons-en](https://www.excisionparlonsen.org/), pour faire de la sensibilisation grand public auprès des festivaliers et autres associations présentes.
