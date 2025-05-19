@@ -1,19 +1,17 @@
 ---
 title: "« J'ai entendu mes sœurs hurler » : en France, la lente reconstruction
   des femmes victimes d'excision"
-date: 2025-05-19
+date: 2023-02-06
 source: le-figaro/index
 link: https://www.lefigaro.fr/actualite-france/j-ai-entendu-mes-soeurs-hurler-en-france-la-lente-reconstruction-des-femmes-victimes-d-excision-20230206
 editable: true
 ---
-Par Jeanne Durieux
-
-Publié le 06/02/2023 à 16:54 , Mis à jour le 07/02/2023 à 09:58
-
 **TÉMOIGNAGES – Elles sont 125.000 femmes vivant en France à 
 avoir été victimes d’une excision. Certaines d’entre elles cherchent à 
 se reconstruire en s’investissant dans la lutte contre cette pratique 
 néfaste.**
+
+Par Jeanne Durieux
 
 L’émotion mêlée aux regrets enroue la voix de Rhama*, quand elle se 
 rappelle cet après-midi. «Je suis rentrée chez moi après m’être absentée
