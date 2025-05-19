@@ -49,7 +49,9 @@
 <div id="gallery" class="gallery">
     {{ $images := slice }}
     {{ with .Params.featured_image }}
-        {{ $images = $images | append (slice .) }}
+        {{ if not .hide_in_gallery }}
+            {{ $images = $images | append (slice .) }}
+        {{ end}}
     {{ end }}
     {{ with .Params.gallery }}
         {{ $images = $images | append . }}

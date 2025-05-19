@@ -8,3 +8,14 @@
 - [x] Replace youtube hardcoded iframes with [youtube shortcode](https://gohugo.io/shortcodes/youtube/)
 - [ ] Fix font on carrd blocks titles
 - [ ] Handle existing old site URLs redirections
+- [ ] Migrate press articles
+- [x] ~~Mentions legales - Carrd (reprendre https://associationcppt.fr/politique-de-confidentialite/ ?)~~
+    - Inutile pour l'instant
+- [x] Fix 2019-06-21-intervention-a-tours-dans-un-centre-de-formation-pour-apprentis-sur-la-thematique-des-mutilations-sexuelles-feminines
+- [ ] Fix video 2020-03-07-mots-sur-maux-de-femmes
+
+-- Questions à Anita --
+- [x] Fixer les dates des anciens articles
+- [ ] Supprimer bulletin d'adhésion
+- [ ] Remettre lien day-one.co
+- [ ] Encart page d'accueil
