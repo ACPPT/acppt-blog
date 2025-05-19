@@ -19,4 +19,4 @@ Cet évènement fut un grand succès grâce à la participation d’une centaine
 
 En ce 8 mars, nous remercions toutes celles et ceux qui se battent tous les jours pour une parfaite égalité entre les femmes et les hommes. Pour un monde meilleur, un SEUL choix s’offre à nous, celui de lutter toutes et tous pour nos droits.
 
-![Mots pour maux, ces phrases qui tuent à petits feu](videos/video-phrases-assassines-.mp4)
+{{< localvideo file="videos/video-phrases-assassines-.mp4" >}}

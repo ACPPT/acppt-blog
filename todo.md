@@ -12,7 +12,7 @@
 - [x] ~~Mentions legales - Carrd (reprendre https://associationcppt.fr/politique-de-confidentialite/ ?)~~
     - Inutile pour l'instant
 - [x] Fix 2019-06-21-intervention-a-tours-dans-un-centre-de-formation-pour-apprentis-sur-la-thematique-des-mutilations-sexuelles-feminines
-- [ ] Fix video 2020-03-07-mots-sur-maux-de-femmes
+- [x] Fix video 2020-03-07-mots-sur-maux-de-femmes
 
 -- Questions à Anita --
 - [x] Fixer les dates des anciens articles

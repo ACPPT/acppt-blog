@@ -1,0 +1,7 @@
+{{ $file := .Get "file" }}
+{{ with .Page.Resources.GetMatch $file }}
+  <video controls preload="metadata" class="video-embed">
+    <source src="{{ .RelPermalink }}" type="video/mp4">
+    Votre navigateur ne prend pas en charge la lecture de cette vidéo.
+  </video>
+{{ end }}
