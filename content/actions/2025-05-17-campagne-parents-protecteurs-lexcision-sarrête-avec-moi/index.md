@@ -2,7 +2,7 @@
 title: "Campagne \"Parents protecteurs : L'excision s'arrête avec moi !\""
 date: 2025-05-17
 featured_image:
-  src: images/affiche-acppt-post-insta.png
+  src: images/affiche-lancement-campagne-2025-A3.png
   alt: Affiche de la campagne 2025 contre les mutilations sexuelles féminines
 gallery:
   - src: images/programme-lancement-de-campagne-contre-l-excision.png
