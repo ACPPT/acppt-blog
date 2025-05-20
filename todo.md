@@ -21,7 +21,7 @@
 - [x] ~~Regarder pour les carrés qui paraissent cliquables sur la page d'accueil~~
     - On fera mieux ultérieurement
 - [x] Vérifier le menu et le footer, en mode responsive, sur le blog
-- [ ] Remplacer `blog.` par `.info`
+- [x] Remplacer `blog.` par `.info`
 - [ ] Remettre lien day-one.co
     - Plus tard
 - [x] Fixer les dates des anciens articles
