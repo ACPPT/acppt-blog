@@ -13,23 +13,23 @@ Depuis 2023, une campagne internationale met en lumière le courage des **parent
 
 En 2025, l’ACPPT s’associe de nouveau à cette campagne en diffusant le message dans la rue, en ligne, et au sein de son réseau d'acteurs engagés.
 
----
+- - -
 
 ## 📍 Soirée de lancement – 27 mai à Tours
 
-📅 **Le mardi 27 mai 2025**  
-📍 **Fabrique d’Images Citoyennes – 1 rue du Docteur Fournier, Tours**  
+📅 **Le mardi 27 mai 2025**\
+📍 **Fabrique d’Images Citoyennes – 16 rue Bernard Palissy, Tours**\
 ⏰ **18h – 21h30**
 
 ### Au programme :
 
-- Présentation de la campagne “Parents protecteurs”
-- Témoignages & vidéos
-- Prises de paroles d'intervenant⋅es invité⋅es
-- Présentation du nouveau site web de l’association
-- Jeu participatif & moment convivial
+* Présentation de la campagne “Parents protecteurs”
+* Témoignages & vidéos
+* Prises de paroles d'intervenant⋅es invité⋅es
+* Présentation du nouveau site web de l’association
+* Jeu participatif & moment convivial
 
----
+- - -
 
 ## 👥 Pourquoi cette campagne ?
 
@@ -37,10 +37,10 @@ Plus de **230 millions de femmes** dans le monde ont subi des mutilations sexuel
 
 Mais chaque année, des parents se battent pour protéger leurs filles. Cette campagne leur rend hommage, et appelle à une mobilisation collective pour faire cesser cette violence.
 
----
+- - -
 
-📣 D'autres actions seront annoncées au fil des semaines.  
+📣 D'autres actions seront annoncées au fil des semaines.\
 Restez informé·e·s sur cette page.
 
-🎗️ Pour plus d'informations ou pour rejoindre la campagne :  
+🎗️ Pour plus d'informations ou pour rejoindre la campagne :\
 👉 [Contactez-nous](https://associationcppt.fr/#contact)
