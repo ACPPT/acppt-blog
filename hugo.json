@@ -1,6 +1,6 @@
 {
     "$schema": "https://json.schemastore.org/hugo.json",
-    "baseURL": "https://blog.associationcppt.fr/",
+    "baseURL": "https://info.associationcppt.fr/",
     "languageCode": "fr-fr",
     "defaultContentLanguage": "fr",
     "title": "Association Chance et Protection Pour Toutes",
