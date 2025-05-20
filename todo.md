@@ -7,15 +7,23 @@
 - [x] Replace usage of `extra.old_url` with [`aliases`](https://gohugo.io/methods/page/aliases/) in the frontmatter
 - [x] Replace youtube hardcoded iframes with [youtube shortcode](https://gohugo.io/shortcodes/youtube/)
 - [ ] Fix font on carrd blocks titles
-- [ ] Handle existing old site URLs redirections
+- [x] Handle existing old site URLs redirections
 - [ ] Migrate press articles
 - [x] ~~Mentions legales - Carrd (reprendre https://associationcppt.fr/politique-de-confidentialite/ ?)~~
     - Inutile pour l'instant
 - [x] Fix 2019-06-21-intervention-a-tours-dans-un-centre-de-formation-pour-apprentis-sur-la-thematique-des-mutilations-sexuelles-feminines
 - [x] Fix video 2020-03-07-mots-sur-maux-de-femmes
-
--- Questions à Anita --
-- [x] Fixer les dates des anciens articles
-- [ ] Supprimer bulletin d'adhésion
-- [ ] Remettre lien day-one.co
 - [ ] Encart page d'accueil
+    - Remplacer le Lorem Ipsum
+    - Changer l'image
+    - Créer l'article
+    - Mettre à jour le lien
+- [x] ~~Regarder pour les carrés qui paraissent cliquables sur la page d'accueil~~
+    - On fera mieux ultérieurement
+- [x] Vérifier le menu et le footer, en mode responsive, sur le blog
+- [ ] Remplacer `blog.` par `.info`
+- [ ] Remettre lien day-one.co
+    - Plus tard
+- [x] Fixer les dates des anciens articles
+- [x] Supprimer bulletin d'adhésion
+
