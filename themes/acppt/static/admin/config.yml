@@ -42,12 +42,12 @@ collections:
     label_singular: "Action"
     folder: "content/actions"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     path: "{{slug}}/index"
     media_folder: "images"
     public_folder: "images"
     filter: { field: "editable", value: true }
-    summary: "{{year}}-{{month}}-{{day}} 🏷️ {{title}}"
+    summary: "{{date}} 🏷️ {{title}}"
     view_groups: # Group by year
       - label: "Année"
         field: "date"
@@ -122,12 +122,12 @@ collections:
     label_singular: "Article de presse"
     folder: "content/press"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     path: "{{slug}}/index"
     media_folder: "images"
     public_folder: "images"
     filter: { field: "editable", value: true }
-    summary: "{{year}}-{{month}}-{{day}} 🗞️ {{fields.source}} 🏷️ {{title}}"
+    summary: "{{date}} 🗞️ {{fields.source}} 🏷️ {{title}}"
     view_groups: # Group by year
       - label: "Année"
         field: "date"
