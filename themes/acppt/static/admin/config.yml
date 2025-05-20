@@ -86,12 +86,12 @@ collections:
     label_singular: "Actualité"
     folder: "content/news"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     path: "{{slug}}/index"
     media_folder: "images"
     public_folder: "images"
     filter: { field: "editable", value: true }
-    summary: "{{year}}-{{month}}-{{day}} 🏷️ {{title}}"
+    summary: "{{date}} 🏷️ {{title}}"
     view_groups: # Group by year
       - label: "Année"
         field: "date"
