@@ -1,0 +1,11 @@
+# Old site redirects
+/2524-2=#association
+/guinee=#antenne-guinee
+/2368-2=#contact
+/contactez-nous=#contact
+/nos-interventions=https://info.associationcppt.fr/actions
+/2417-2=https://info.associationcppt.fr/actions
+/2496-2=https://info.associationcppt.fr/press
+/politique-de-confidentialite=#contact
+/category/*=https://info.associationcppt.fr/actions
+/author/*=https://info.associationcppt.fr/actions
