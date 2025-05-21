@@ -43,11 +43,9 @@ Mais chaque année, des parents se battent pour protéger leurs filles. Cette ca
 
 Pour accompagner les familles et prévenir les risques lors des séjours à l’étranger, l’ACPPT met à disposition un passeport de protection parentale contre les mutilations sexuelles féminines, disponible en plusieurs langues. Ce document rappelle la loi française, les risques pénaux encourus, et permet aux parents de s'engager solennellement pour la protection de leur fille.
 
-📘 [Télécharger le passeport en français (PDF)](docs/Passeport%20de%20protection%20parentale%20contre%20les%20mutilations%20sexuelles%20féminines%20-%20FR.pdf)
-
-📗 [Télécharger le passeport en anglais (PDF)](docs/Passeport%20de%20protection%20parentale%20contre%20les%20mutilations%20sexuelles%20féminines%20-%20EN.pdf)
-
-📕 [Télécharger le passeport en arabe (PDF)](docs/Passeport%20de%20protection%20parentale%20contre%20les%20mutilations%20sexuelles%20féminines%20-%20AR.pdf)
+- 📘 [Télécharger le passeport en français (PDF)](docs/Passeport%20de%20protection%20parentale%20contre%20les%20mutilations%20sexuelles%20féminines%20-%20FR.pdf)
+- 📗 [Télécharger le passeport en anglais (PDF)](docs/Passeport%20de%20protection%20parentale%20contre%20les%20mutilations%20sexuelles%20féminines%20-%20EN.pdf)
+- 📕 [Télécharger le passeport en arabe (PDF)](docs/Passeport%20de%20protection%20parentale%20contre%20les%20mutilations%20sexuelles%20féminines%20-%20AR.pdf)
 
 - - -
 
