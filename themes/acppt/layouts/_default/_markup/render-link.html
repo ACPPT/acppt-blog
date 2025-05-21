@@ -1,0 +1,20 @@
+{{- $u := urls.Parse .Destination -}}
+
+{{- /* If the URL is external, set target="_blank" */ -}}
+{{- $target_blank := false -}}
+{{- if not (strings.Contains $u.Hostname "associationcppt.fr") -}}
+  {{- $target_blank = true -}}
+{{- end -}}
+
+{{- /* If the URL is a PDF, set target="_blank" */ -}}
+{{- if strings.HasSuffix $u.Path "pdf" -}}
+  {{- $target_blank = true -}}
+{{- end -}}
+
+<a href="{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if $target_blank }} target="_blank"{{ end -}}
+>
+  {{- with .Text }}{{ . }}{{ end -}}
+</a>
+{{- /* chomp trailing newline */ -}}
