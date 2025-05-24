@@ -62,9 +62,9 @@ La période des vacances scolaires est particulièrement à risque, car certaine
 
 Le passeport de protection parentale est un outil conçu pour aider les parents à affirmer leur opposition à l'excision et à protéger leurs filles, notamment lors de séjours à l'étranger.
 
-* Informer : Il rappelle que l'excision est une infraction pénale en France, même si elle est pratiquée à l'étranger, et expose les risques juridiques encourus.
-* Prévenir : Il permet aux parents d'exprimer clairement leur refus de l'excision auprès de leur entourage, et peut être présenté aux membres de la famille ou aux professionnels de santé.
-* Protéger : En cas de voyage, il sert de document de référence pour signaler aux autorités locales et aux services consulaires la volonté des parents de protéger leur enfant contre toute tentative d'excision.
+- Informer : Il rappelle que l'excision est une infraction pénale en France, même si elle est pratiquée à l'étranger, et expose les risques juridiques encourus.
+- Prévenir : Il permet aux parents d'exprimer clairement leur refus de l'excision auprès de leur entourage, et peut être présenté aux membres de la famille ou aux professionnels de santé.
+- Protéger : En cas de voyage, il sert de document de référence pour signaler aux autorités locales et aux services consulaires la volonté des parents de protéger leur enfant contre toute tentative d'excision.
 
 Ce passeport, validé par la préfecture d'Indre et Loire, est disponible en plusieurs langues pour faciliter son utilisation dans différents contextes culturels et linguistiques.
 
