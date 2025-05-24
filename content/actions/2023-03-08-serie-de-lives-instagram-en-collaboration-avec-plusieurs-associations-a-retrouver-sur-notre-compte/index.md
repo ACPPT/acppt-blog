@@ -1,5 +1,5 @@
 ---
-date: 2023-03-08 13:54:57+00:00
+date: 2023-03-08
 aliases:
 - /2023-serie-de-lives-instagram-en-collaboration-avec-plusieurs-associations-a-retrouver-sur-notre-compte-acppt-association_cppt-photos-et-videos-instagram/
 featured_image:

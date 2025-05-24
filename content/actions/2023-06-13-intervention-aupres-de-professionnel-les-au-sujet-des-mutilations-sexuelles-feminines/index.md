@@ -1,5 +1,5 @@
 ---
-date: 2023-06-13 22:00:45+00:00
+date: 2023-06-13
 aliases:
 - /intervention-aupres-de-professionnel-les-au-sujet-des-mutilations-sexuelles-feminines/
 featured_image:

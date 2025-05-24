@@ -1,5 +1,5 @@
 ---
-date: 2020-03-27 17:53:10+00:00
+date: 2020-03-27
 aliases:
 - /les-violences-basees-sur-le-genre/
 featured_image:

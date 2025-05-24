@@ -1,5 +1,5 @@
 ---
-date: 2019-06-21 13:14:33+00:00
+date: 2019-06-21
 aliases:
 - /2019-intervention-a-tours-dans-un-centre-de-formation-pour-apprentis-sur-la-thematique-des-mutilations-sexuelle-feminines/
 featured_image:

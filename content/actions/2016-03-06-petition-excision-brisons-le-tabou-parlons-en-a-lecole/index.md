@@ -1,5 +1,5 @@
 ---
-date: 2016-03-06 07:13:32+00:00
+date: 2016-03-06
 aliases:
 - /2016-mutilations-sexuelles-feminines-a-lecole/
 featured_image:

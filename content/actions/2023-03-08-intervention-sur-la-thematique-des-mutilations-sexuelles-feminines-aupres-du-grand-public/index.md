@@ -1,5 +1,5 @@
 ---
-date: 2023-03-08 13:50:30+00:00
+date: 2023-03-08
 aliases:
 - /2023-intervention-sur-la-thematique-des-mutilations-sexuelles-feminines-aupres-du-grand-public/
 featured_image:

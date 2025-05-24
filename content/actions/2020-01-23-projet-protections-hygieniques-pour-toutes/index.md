@@ -1,5 +1,5 @@
 ---
-date: 2020-01-23 09:40:58+00:00
+date: 2020-01-23
 aliases:
 - /projet-protections-hygieniques-pour-toutes/
 featured_image:

@@ -1,5 +1,5 @@
 ---
-date: 2022-12-14 07:24:23+00:00
+date: 2022-12-14
 aliases:
 - /2021-dons-dhabillements-a-la-cite-de-la-solidarite-a-taouyah-conakry/
 featured_image:

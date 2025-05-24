@@ -1,5 +1,5 @@
 ---
-date: 2020-03-07 07:23:03+00:00
+date: 2020-03-07
 aliases:
 - /2020-co-organisation-de-levenement-mots-sur-maux-des-femmes/
 - /8-mars-journee-internationale-des-droits-des-femmes/

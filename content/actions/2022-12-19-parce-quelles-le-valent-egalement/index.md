@@ -1,5 +1,5 @@
 ---
-date: 2022-12-19 07:20:32+00:00
+date: 2022-12-19
 aliases:
 - /2019-parce-quelles-le-valent-egalement/
 title: Parce qu’elles le valent également

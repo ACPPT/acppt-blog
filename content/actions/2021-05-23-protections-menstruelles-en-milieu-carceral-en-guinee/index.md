@@ -1,5 +1,5 @@
 ---
-date: 2021-05-23 22:18:53+00:00
+date: 2021-05-23
 aliases:
 - /protections-menstruelles-en-milieu-carceral-en-guinee/
 featured_image:

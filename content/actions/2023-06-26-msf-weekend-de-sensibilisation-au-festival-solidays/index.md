@@ -1,5 +1,5 @@
 ---
-date: 2023-06-26 11:37:55+00:00
+date: 2023-06-26
 aliases:
 - /msf-weekend-de-sensibilisation-au-festival-solidays/
 featured_image:

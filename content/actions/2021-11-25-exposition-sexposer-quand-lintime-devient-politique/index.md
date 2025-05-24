@@ -1,5 +1,5 @@
 ---
-date: 2021-11-25 07:27:16+00:00
+date: 2021-11-25
 aliases:
 - /2021-participation-au-projet-sexposer-quand-lintime-devient-politique/
 featured_image:

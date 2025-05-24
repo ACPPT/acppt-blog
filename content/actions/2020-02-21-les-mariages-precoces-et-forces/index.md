@@ -1,5 +1,5 @@
 ---
-date: 2020-02-21 17:58:00+00:00
+date: 2020-02-21
 aliases:
 - /les-mariages-precoces-et-forces/
 - /2019-intervention-de-lantenne-de-guinee-au-lycee-2-octobre-a-conakry/

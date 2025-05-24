@@ -1,5 +1,5 @@
 ---
-date: 2021-03-28 07:26:52+00:00
+date: 2021-03-28
 aliases:
 - /2021-distributions-de-repas-chauds-aupres-des-sans-abris-a-conakry/
 featured_image:

@@ -1,5 +1,5 @@
 ---
-date: 2023-03-08 14:15:31+00:00
+date: 2023-03-08
 aliases:
 - /2023-distribution-de-protections-menstruelles-au-college-bonfi-a-conakry/
 featured_image:

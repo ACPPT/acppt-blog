@@ -1,5 +1,5 @@
 ---
-date: 2020-03-08 16:07:00+00:00
+date: 2020-03-08
 aliases:
 - /journee-internationale-des-droits-des-femmes-sensibilisation-et-dons-en-guinee/
 - /2020-journee-internationale-des-droits-des-femmes/

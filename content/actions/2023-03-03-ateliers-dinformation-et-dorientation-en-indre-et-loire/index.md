@@ -1,5 +1,5 @@
 ---
-date: 2023-03-03 07:32:02+00:00
+date: 2023-03-03
 aliases:
 - /2022-ateliers-dinformation-et-dorientation-en-indre-et-loire/
 featured_image:

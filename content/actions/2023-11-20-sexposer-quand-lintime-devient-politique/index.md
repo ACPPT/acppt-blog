@@ -1,6 +1,6 @@
 ---
 title: «SEXposer, quand l’intime devient politique»
-date: 2023-11-24T12:00:00.000Z
+date: 2023-11-24
 aliases:
   - /sexposer-intime-politique/
 featured_image:

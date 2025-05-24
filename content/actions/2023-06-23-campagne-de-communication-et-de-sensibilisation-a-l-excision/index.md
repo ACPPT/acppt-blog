@@ -1,5 +1,5 @@
 ---
-date: 2023-06-23 08:14:02+00:00
+date: 2023-06-23
 aliases:
 - /campagne-de-communication-et-de-sensibilisation-a-lexcision/
 featured_image:

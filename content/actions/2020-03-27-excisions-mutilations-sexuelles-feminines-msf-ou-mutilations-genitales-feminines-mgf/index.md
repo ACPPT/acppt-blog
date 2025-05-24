@@ -1,5 +1,5 @@
 ---
-date: 2020-03-27 17:55:55+00:00
+date: 2020-03-27
 aliases:
 - /les-mutilations-genitales-feminines/
 - /2019-participation-de-notre-association-a-la-campagne-de-prevention-alerte-excision-de-lassociation-excision-parlons-en/

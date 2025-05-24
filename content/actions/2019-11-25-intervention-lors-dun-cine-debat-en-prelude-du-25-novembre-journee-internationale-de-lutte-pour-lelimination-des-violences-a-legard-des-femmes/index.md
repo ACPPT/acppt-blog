@@ -1,5 +1,5 @@
 ---
-date: 2019-11-25 13:35:36+00:00
+date: 2019-11-25
 aliases:
 - /2019-intervention-lors-dun-cine-debat-en-prelude-du-25-novembre-journee-internationale-de-lutte-pour-lelimination-des-violences-a-legard-des-femmes/
 featured_image:
