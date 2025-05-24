@@ -54,6 +54,7 @@ En donnant la parole à ces parents, la campagne vise à valoriser leur engageme
 La période des vacances scolaires est particulièrement à risque, car certaines jeunes filles peuvent être emmenées à l'étranger pour y subir une excision. C'est pourquoi la prévention et l'information sont essentielles.
 
 > *Cette campagne s’inscrit pleinement dans le travail quotidien d’ACPPT pour accompagner, informer et protéger les femmes et les filles face aux violences.*
+>\
 > 👉 **[Découvrez notre association et nos actions](https://www.associationcppt.fr)**
 
 - - -
