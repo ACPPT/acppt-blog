@@ -28,10 +28,7 @@ Nous organisons une soirée de mobilisation pour lancer cette campagne. Un momen
 📍 **Fabrique d’Images Citoyennes – 16 rue Bernard Palissy, Tours**\
 ⏰ **18h – 21h30**
 
-> **✊ Votre présence compte, votre voix aussi.
-> Venez partager ce moment avec nous !**
-
-### Au programme :
+*Au programme :*
 
 * Présentation de la campagne “Parents protecteurs”
 * Témoignages & vidéos
@@ -40,6 +37,10 @@ Nous organisons une soirée de mobilisation pour lancer cette campagne. Un momen
 * Jeu participatif & moment convivial
 
 [Téléchargez le programme complet](images/programme-lancement-de-campagne-contre-l-excision.png)
+
+
+**✊ Votre présence compte, votre voix aussi.
+Venez partager ce moment avec nous !**
 
 - - -
 
@@ -54,7 +55,7 @@ En donnant la parole à ces parents, la campagne vise à valoriser leur engageme
 La période des vacances scolaires est particulièrement à risque, car certaines jeunes filles peuvent être emmenées à l'étranger pour y subir une excision. C'est pourquoi la prévention et l'information sont essentielles.
 
 > *Cette campagne s’inscrit pleinement dans le travail quotidien d’ACPPT pour accompagner, informer et protéger les femmes et les filles face aux violences.*
->\
+> \
 > 👉 **[Découvrez notre association et nos actions](https://www.associationcppt.fr)**
 
 - - -
@@ -63,9 +64,9 @@ La période des vacances scolaires est particulièrement à risque, car certaine
 
 Le passeport de protection parentale est un outil conçu pour aider les parents à affirmer leur opposition à l'excision et à protéger leurs filles, notamment lors de séjours à l'étranger.
 
-- Informer : Il rappelle que l'excision est une infraction pénale en France, même si elle est pratiquée à l'étranger, et expose les risques juridiques encourus.
-- Prévenir : Il permet aux parents d'exprimer clairement leur refus de l'excision auprès de leur entourage, et peut être présenté aux membres de la famille ou aux professionnels de santé.
-- Protéger : En cas de voyage, il sert de document de référence pour signaler aux autorités locales et aux services consulaires la volonté des parents de protéger leur enfant contre toute tentative d'excision.
+* Informer : Il rappelle que l'excision est une infraction pénale en France, même si elle est pratiquée à l'étranger, et expose les risques juridiques encourus.
+* Prévenir : Il permet aux parents d'exprimer clairement leur refus de l'excision auprès de leur entourage, et peut être présenté aux membres de la famille ou aux professionnels de santé.
+* Protéger : En cas de voyage, il sert de document de référence pour signaler aux autorités locales et aux services consulaires la volonté des parents de protéger leur enfant contre toute tentative d'excision.
 
 Ce passeport, validé par la préfecture d'Indre et Loire, est disponible en plusieurs langues pour faciliter son utilisation dans différents contextes culturels et linguistiques.
 
