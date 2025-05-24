@@ -12,12 +12,11 @@ editable: true
 > Tous les ans, depuis 2023, une campagne internationale met en lumière le courage des **parents protecteurs** : celles et ceux qui, parfois contre leur propre entourage, ont refusé que leurs filles soient excisées.
 >
 > En 2025, l’ACPPT s’associe de nouveau à cette campagne en diffusant le message dans la rue, en ligne, et au sein de son réseau d'acteurs engagés.
-
-**🔎 Retrouvez dans cette page :**
-
-* 🎉 [Les info sur la soirée de lancement du 27 mai](#-soirée-de-lancement--27-mai-à-tours)
-* ❓ [Apprenez-en plus sur la campagne](#-pourquoi-cette-campagne-)
-* 📄 [Découvrez le passeport de protection parentale, un document à garder avec vous](#-télécharger-le-passeport-de-protection-parentale)
+>
+> **🔎 Retrouvez dans cette page :**
+> * 🎉 [Les info sur la soirée de lancement du 27 mai](#-soirée-de-lancement--27-mai-à-tours)
+> * ❓ [Apprenez-en plus sur la campagne](#-pourquoi-cette-campagne-)
+> * 📄 [Découvrez le passeport de protection parentale, un document à garder avec vous](#-télécharger-le-passeport-de-protection-parentale)
 
 - - -
 
