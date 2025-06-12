@@ -16,4 +16,4 @@ Merci à Radio Béton et à Mariotte pour l'invitation et la mise en lumière de
 
 Vous retrouverez suite à ce lien, la discussion à l'antenne !
 
-➡️ <https://podcast-radiobeton.com/aucard-de-tours>
+[](https://podcast-radiobeton.com/aucard-de-tours)➡️ [Accéder au podcast](https://podcast-radiobeton.com/aucard-de-tours)
