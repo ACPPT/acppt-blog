@@ -6,7 +6,7 @@ featured_image:
   alt: Anita Traoré et Mariotte chez Radio Béton
 editable: true
 ---
-Anita Traoré, Présidente et fondatrice de notre association Chance et Protection Pour Toutes a été invitée vendredi 30 mai chez Radio Béton.
+Anita Traoré, Présidente et fondatrice de notre association a été invitée vendredi 30 mai chez Radio Béton.
 
 Ella a pris la parole pour parler de l'excision et présenter notre campagne de prévention contre les mutilations sexuelles féminines ainsi que nos passeports de protection parentale.
 
