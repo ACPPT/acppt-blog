@@ -4,6 +4,7 @@ date: 2025-05-30
 featured_image:
   src: images/capture-d’écran-2025-06-12-à-10.43.53.png
   alt: Anita Traoré et Mariotte chez Radio Béton
+gallery: []
 editable: true
 ---
 Anita Traoré, Présidente et fondatrice de notre association a été invitée vendredi 30 mai chez Radio Béton.
