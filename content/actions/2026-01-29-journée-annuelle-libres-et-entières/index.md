@@ -23,7 +23,7 @@ Que vous soyez professionnel·le, personne concernée, proche, militant·e ou si
 
 ## Informations pratiques
 
-  
+Toutes les informations essentielles pour participer à la journée Libres et Entières.
 
 * 📍 **Hôtel de Ville de Tours** – Tours
 * 🗓️ **Samedi 21 février 2026**
