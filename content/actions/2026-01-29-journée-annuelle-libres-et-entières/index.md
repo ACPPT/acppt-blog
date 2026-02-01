@@ -10,6 +10,8 @@ Les mutilations sexuelles féminines sont une violence grave, encore trop souven
 
 Cette journée est pensée comme un **temps fort collectif** pour informer, briser le silence, donner la parole aux femmes concernées et renforcer les dynamiques d’action pour l’abandon définitif de ces pratiques.
 
+---
+
 ## Pourquoi participer ?
 
 **Libres et Entières**, c’est :
@@ -21,6 +23,8 @@ Cette journée est pensée comme un **temps fort collectif** pour informer, bris
 
 Que vous soyez professionnel·le, personne concernée, proche, militant·e ou simplement citoyen·ne, **votre présence compte**.
 
+---
+
 ## Informations pratiques
 
 Toutes les informations essentielles pour participer à la journée Libres et Entières.
@@ -29,6 +33,8 @@ Toutes les informations essentielles pour participer à la journée Libres et En
 * 🗓️ **Samedi 21 février 2026**
 * 🕙 **10h – 18h**
 * 🎟️ **Entrée libre sur [inscription](https://www.helloasso.com/associations/association-chance-et-protection-pour-toutes/evenements/journee-annuelle-libres-et-entieres)**
+
+---
 
 ## Aperçu du programme
 
@@ -44,11 +50,15 @@ Tout au long de la journée :
 > 👉 Le **programme détaillé** est disponible sur la [page d’inscription](https://www.helloasso.com/associations/association-chance-et-protection-pour-toutes/evenements/journee-annuelle-libres-et-entieres).  
 > 👉 Une **version graphique du programme** sera également mise à disposition.
 
+---
+
 ## Une mobilisation collective
 
 Cette journée réunit des **associations locales et nationales, des professionnel·les de santé, du social et du droit**, ainsi que des **personnes engagées de longue date** dans la lutte contre les mutilations sexuelles féminines.
 
 **Libres et Entières** s’inscrit dans une démarche de coopération, de sororité et d’actions concrètes, portée par **ACPPT** depuis plus de dix ans.
+
+---
 
 ## Rejoignez-nous
 
