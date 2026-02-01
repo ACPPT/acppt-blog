@@ -54,9 +54,8 @@ Cette journée réunit des **associations locales et nationales, des professionn
 
 ## Rejoignez-nous
 
-Parce qu’aucune tradition ne justifie la violence.
-
-Parce qu’aucune fille ne doit être mutilée.
+> Parce qu’aucune tradition ne justifie la violence.
+> Parce qu’aucune fille ne doit être mutilée.
 
 👉 **Participez à Libres et Entières**
 
