@@ -23,13 +23,10 @@ Que vous soyez professionnel·le, personne concernée, proche, militant·e ou si
 
 ## Informations pratiques
 
-📍 **Hôtel de Ville de Tours** – Tours
-
-🗓️ **Samedi 21 février 2026**
-
-🕙 **10h – 18h**
-
-🎟️ **Entrée libre sur [inscription](https://www.helloasso.com/associations/association-chance-et-protection-pour-toutes/evenements/journee-annuelle-libres-et-entieres)**
+* 📍 **Hôtel de Ville de Tours** – Tours
+* 🗓️ **Samedi 21 février 2026**
+* 🕙 **10h – 18h**
+* 🎟️ **Entrée libre sur [inscription](https://www.helloasso.com/associations/association-chance-et-protection-pour-toutes/evenements/journee-annuelle-libres-et-entieres)**
 
 ## Aperçu du programme
 
@@ -42,9 +39,8 @@ Tout au long de la journée :
 * 🎵 **Prestations musicales**,
 * 🤝 **Stands associatifs** et temps d’échanges.
 
-👉 Le **programme détaillé** est disponible sur la [page d’inscription](https://www.helloasso.com/associations/association-chance-et-protection-pour-toutes/evenements/journee-annuelle-libres-et-entieres).
-
-👉 Une **version graphique du programme** sera également mise à disposition.
+> 👉 Le **programme détaillé** est disponible sur la [page d’inscription](https://www.helloasso.com/associations/association-chance-et-protection-pour-toutes/evenements/journee-annuelle-libres-et-entieres).  
+> 👉 Une **version graphique du programme** sera également mise à disposition.
 
 ## Une mobilisation collective
 
@@ -54,7 +50,7 @@ Cette journée réunit des **associations locales et nationales, des professionn
 
 ## Rejoignez-nous
 
-> Parce qu’aucune tradition ne justifie la violence.
+> Parce qu’aucune tradition ne justifie la violence.  
 > Parce qu’aucune fille ne doit être mutilée.
 
 👉 **Participez à Libres et Entières**
