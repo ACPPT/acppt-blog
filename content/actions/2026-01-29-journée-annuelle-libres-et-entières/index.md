@@ -23,6 +23,8 @@ Que vous soyez professionnel·le, personne concernée, proche, militant·e ou si
 
 ## Informations pratiques
 
+  
+
 * 📍 **Hôtel de Ville de Tours** – Tours
 * 🗓️ **Samedi 21 février 2026**
 * 🕙 **10h – 18h**
