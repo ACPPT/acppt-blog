@@ -50,11 +50,10 @@ Cette journée réunit des **associations locales et nationales, des professionn
 
 ## Rejoignez-nous
 
-> Parce qu’aucune tradition ne justifie la violence.  
-> Parce qu’aucune fille ne doit être mutilée.
+Parce qu’aucune tradition ne justifie la violence.  
+Parce qu’aucune fille ne doit être mutilée.
 
-👉 **Participez à Libres et Entières**
-
-👉 **Parlez-en, relayez, invitez autour de vous**
+> 👉 **Participez à Libres et Entières**. 
+> 👉 **Parlez-en, relayez, invitez autour de vous**
 
 🔗 **[Inscription via HelloAsso](https://www.helloasso.com/associations/association-chance-et-protection-pour-toutes/evenements/journee-annuelle-libres-et-entieres)**
