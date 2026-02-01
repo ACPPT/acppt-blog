@@ -1,0 +1,23 @@
+{{- /* Parse the URL */ -}}
+{{- $url := urls.Parse .Destination -}}
+
+{{- /* Extract height and width from URL params */ -}}
+{{- $width := "100%" -}}
+{{- if $url.Query.Has "width" -}}
+  {{- $width = $url.Query.Get "width" -}}
+{{- end -}}
+{{- $height := false -}}
+{{- if $url.Query.Has "height" -}}
+  {{- $height = $url.Query.Get "height" -}}
+{{- end -}}
+
+{{- /* Display */ -}}
+<img src="{{ .Destination | safeURL }}"
+  {{- with .PlainText }} alt="{{ . }}"{{ end -}}
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  style="
+    {{- with $width }}width: {{ . }};{{ end -}}
+    {{- with $height }}height: {{ . }};{{ end -}}
+  "
+/>
+{{- /* chomp trailing newline */ -}}
