@@ -8,7 +8,7 @@ gallery:
   - src: images/2026_libres_et_entieres_programme.png
 editable: true
 ---
-![{height='100px'}](images/2026_libres_et_entieres_banniere.png "{width='100px'}")
+![](images/2026_libres_et_entieres_banniere.png?width=120px&height=60px)
 
 Chaque année, à l’occasion de la Journée internationale de tolérance zéro à l’égard des mutilations sexuelles féminines, l'**Association Chance et Protection Pour Toutes (ACPPT)** organise **[Libres et Entières](https://www.helloasso.com/associations/association-chance-et-protection-pour-toutes/evenements/journee-annuelle-libres-et-entieres)**, une journée de sensibilisation, de plaidoyer et d’échanges.
 
