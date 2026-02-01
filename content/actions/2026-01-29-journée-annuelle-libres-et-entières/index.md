@@ -3,10 +3,12 @@ title: '"Libres et Entières" - Journée annuelle de mobilisation contre les
   mutilations sexuelles féminines'
 date: 2026-01-29
 featured_image:
-  src: images/banniere.png
+  src: images/2026_libres_et_entieres_affiche.png
+gallery:
+  - src: images/2026_libres_et_entieres_programme.png
 editable: true
 ---
-![](images/banniere.png)
+![](images/2026_libres_et_entieres_banniere.png)
 
 Chaque année, à l’occasion de la Journée internationale de tolérance zéro à l’égard des mutilations sexuelles féminines, l'**Association Chance et Protection Pour Toutes (ACPPT)** organise **[Libres et Entières](https://www.helloasso.com/associations/association-chance-et-protection-pour-toutes/evenements/journee-annuelle-libres-et-entieres)**, une journée de sensibilisation, de plaidoyer et d’échanges.
 
