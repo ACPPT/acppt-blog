@@ -20,6 +20,14 @@ gallery:
   - src: images/dsc00551.jpg
   - src: images/dsc00566.jpg
   - src: images/dsc00601.jpg
+  - src: images/7f2aa9e1-424d-468f-a764-fe28b737a48a.jpg
+  - src: images/img_7135.jpg
+  - src: images/dsc00598.jpg
+  - src: images/0afff7b2-4740-47fe-9e84-0bfc35fcb143.jpg
+  - src: images/dsc00714.jpg
+  - src: images/ddf7d95e-5bfd-4a07-9ba7-083b2b867bf0.jpg
+  - src: images/d396a9c7-f02f-4c53-896e-a064f56d98be.jpg
+  - src: images/681469f0-4922-4455-b178-bc847b16d006.jpg
 editable: true
 ---
 Cette édition a été marquée par la richesse des échanges, la force des témoignages et l’énergie collective qui s’est dégagée tout au long de la journée. Survivantes, professionnel·les de santé, associations, artistes et citoyen·nes engagé·es ont uni leurs voix pour rappeler l’urgence d’agir et la nécessité de protéger chaque fille, partout dans le monde.
